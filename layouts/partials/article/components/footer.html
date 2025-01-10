@@ -1,0 +1,13 @@
+<footer class="article-footer">
+    {{ partial "article/components/tags" . }}
+
+
+    {{- if ne .Lastmod .Date -}}
+    <section class="article-lastmod">
+        {{ partial "helper/icon" "clock" }}
+        <span>
+            {{ T "article.lastUpdatedOn" }} {{ .Lastmod.Format "January 2, 2006" }} {{ .GitInfo.Subject }} {{ .GitInfo.AbbreviatedHash }}
+        </span>
+    </section>
+    {{- end -}}
+</footer>

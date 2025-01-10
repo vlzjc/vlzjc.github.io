@@ -10,7 +10,7 @@
 [[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+url = "https://github.com/vlzjc"
 
 [social.params]
 icon = "brand-github"
@@ -18,7 +18,31 @@ icon = "brand-github"
 [[social]]
 identifier = "twitter"
 name = "Twitter"
-url = "https://twitter.com"
+url = "https://x.com/_vlzjc"
 
 [social.params]
 icon = "brand-twitter"
+
+[[social]]
+identifier = "linkedn"
+name = "Twitter"
+url = "https://linken.com/vlzjc"
+
+[social.params]
+icon = "brand-linkedin"
+
+[[social]]
+identifier = "mail"
+name = "mail"
+url = "mailto:velezjaimecarlos@gmail.com"
+
+[social.params]
+icon = "mail"
+
+#[[social]]
+#identifier = "pdf"
+#name = "pdf"
+#url = "https://vlzjc.github.io/assets/resumeVLZJC.pdf"
+
+#[social.params]
+#icon = "pdf"
