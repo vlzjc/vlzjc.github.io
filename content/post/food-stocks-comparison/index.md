@@ -17,7 +17,7 @@ categories:
 links:
   - title: Coffee Sales Excel Dashboard
     description: Dashboard Sales Coffee
-    website: hhttps://github.com/vlzjc/Excel-Dashboard-Coffee-Salesgithub.com/vlzjc/WordleGame
+    website: hhttps://github.com/vlzjc/Excel-Dashboard-Coffee-Salesgithub.com/
 ---
 
 Collect -> Data Ingestion

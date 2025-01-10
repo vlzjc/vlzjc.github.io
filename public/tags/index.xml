@@ -15,9 +15,17 @@
         <description></description>
         </item>
         <item>
+        <title>Excel</title>
+        <link>//localhost:1313/tags/excel/</link>
+        <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/tags/excel/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Python</title>
         <link>//localhost:1313/tags/python/</link>
-        <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
         
         <guid>//localhost:1313/tags/python/</guid>
         <description></description>
