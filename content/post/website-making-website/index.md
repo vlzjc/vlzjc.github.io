@@ -1,5 +1,5 @@
 ---
-title: Visuals and Website Making
+title: Website Making
 description: Making a Website and how that relates to data vizualization.
 slug: website-making
 date: 2025-01-11

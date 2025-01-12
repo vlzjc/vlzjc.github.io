@@ -6,23 +6,7 @@
         <description>Recent content in Tags on Jaime Carlos Velez</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Html</title>
-        <link>//localhost:1313/tags/html/</link>
-        <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>//localhost:1313/tags/html/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Scss</title>
-        <link>//localhost:1313/tags/scss/</link>
-        <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>//localhost:1313/tags/scss/</guid>
-        <description></description>
-        </item>
-        <item>
+        <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About Me</title>
         <link>//localhost:1313/tags/about-me/</link>
         <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
@@ -44,6 +28,38 @@
         <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
         
         <guid>//localhost:1313/tags/python/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Css</title>
+        <link>//localhost:1313/tags/css/</link>
+        <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/tags/css/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Html</title>
+        <link>//localhost:1313/tags/html/</link>
+        <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/tags/html/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Markdown</title>
+        <link>//localhost:1313/tags/markdown/</link>
+        <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/tags/markdown/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Themes</title>
+        <link>//localhost:1313/tags/themes/</link>
+        <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/tags/themes/</guid>
         <description></description>
         </item>
         
