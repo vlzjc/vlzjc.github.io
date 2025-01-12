@@ -11,7 +11,6 @@ tags:
     - python
 categories:
     - ETL
-    - cleaning
     - visualization
 
 links:

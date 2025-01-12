@@ -5,7 +5,7 @@ slug: wordle-with-python
 date: 2024-04-27
 image: cover.jpg
 categories:
-    - Programming
+    - programming
 tags: 
     - python
 categories:
