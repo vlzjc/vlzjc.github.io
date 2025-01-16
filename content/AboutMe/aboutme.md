@@ -1,12 +1,12 @@
 ---
 title: "AboutMe"
-date: 2025-01-10 00:00:00+0000
+date: 2024-01-10 00:00:00+0000
 layout: "Single"
 slug: "AboutMe"
 menu:
     main:
         name: AboutMe
-        weight: 1000
+        weight: 99
         params: 
             icon: pdf
 tags:

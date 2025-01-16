@@ -1,0 +1,58 @@
+{{ define "body-class" }}
+
+article-page
+    {{/* 
+        Enable the right sidebar if
+            - Widget different from 'TOC' is enabled
+            - TOC is enabled and not empty
+    */}}
+
+
+{{ end }}
+
+
+{{ define "main" }}
+    <header>
+        <style>
+            
+            
+            .article-container{
+                width: 100%;
+                display: grid;
+                grid-template-columns: repeat(auto-fit, 425px);
+            }
+            .article{
+                width: 425px;
+                height: 800px;
+            }
+       
+        </style>
+    </header>
+
+    {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+    {{ $notHidden := where .Site.RegularPages "Params.hidden" "!=" true }}
+    {{ $filtered := ($pages | intersect $notHidden) }}
+
+    
+    <main>
+        <section class="article-list article-container">
+                {{ range .Pages }}
+                    
+                    {{ partial "article/article.html" . }}
+                    {{ if .Params.links }} {{ end }}
+    
+               
+                {{ end }} 
+        </section>
+    </main>     
+       
+{{ partialCached "footer/footer" . }}
+{{ end }}
+
+
+{{ define "right-sidebar" }}
+    {{ if .Scratch.Get "hasWidget" }}{{ partial "sidebar/right.html" (dict "Context" . "Scope" "page") }}{{ end}}
+{{ end }}
+
+
+

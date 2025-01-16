@@ -6,10 +6,9 @@ date: 2024-04-27
 image: cover.jpg
 categories:
     - programming
+    - data manipulation
 tags: 
     - python
-categories:
-    - data manipulation
 links:
   - title: Wordle with Python
     description: word-guessing game you can play in the terminal

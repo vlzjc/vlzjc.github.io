@@ -3,25 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blogs--memes/</loc>
+    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blogs--memes/bird-migration/</loc>
+    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/blog/</loc>
+    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/p/data-cleaning/</loc>
+    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blogs--memes/hopelessdocu/</loc>
+    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blogs--memes/javajoke/</loc>
+    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/meme/</loc>
+    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/</loc>
-    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/about-me/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/aboutme/aboutme/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/aboutme/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
-    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/excel/</loc>
+    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/p/lotto-analysis/</loc>
+    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/python/</loc>
+    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/visualization/</loc>
+    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/p/coffee-sales/</loc>
     <lastmod>2025-01-08T00:00:00+00:00</lastmod>
@@ -29,31 +53,58 @@
     <loc>//localhost:1313/categories/etl/</loc>
     <lastmod>2025-01-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/excel/</loc>
-    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/p/food-stocks/</loc>
-    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/python/</loc>
-    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/visualization/</loc>
     <lastmod>2025-01-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/data-manipulation/</loc>
     <lastmod>2024-04-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/categories/programming/</loc>
+    <lastmod>2024-04-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/p/wordle-with-python/</loc>
     <lastmod>2024-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/page/</loc>
-    <lastmod>2023-08-25T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/tags/about-me/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/aboutme/aboutme/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/aboutme/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/css/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/html/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/markdown/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/p/markdown-syntax-guide/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/syntax/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/themes/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/themes/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/p/math-typesetting/</loc>
+    <lastmod>2023-08-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/archives/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/programming/</loc>
+    <loc>//localhost:1313/page/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/analysis/</loc>
   </url><url>
     <loc>//localhost:1313/search/</loc>
   </url>

@@ -2,4 +2,14 @@
     You can add your own custom styles here.
 */
 
-
+.tiktok-embed {
+    border: 0 !important;
+    border-radius: 25px;
+    max-width: 450px;
+    max-height: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

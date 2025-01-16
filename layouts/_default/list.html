@@ -1,6 +1,6 @@
 {{ define "main" }}
     <header>
-        <h3 class="section-title">
+        
             {{ if eq .Parent (.GetPage "/") }}
                 {{ T "list.section" }}
             {{ else }}
@@ -77,7 +77,7 @@
 
     {{- partial "pagination.html" . -}}
 
-    {{ partialCached "footer/footer" . }}
+
 {{ end }}
 
 {{ define "right-sidebar" }}

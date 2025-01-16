@@ -2,7 +2,7 @@
 title: lotto analysis
 description: analysis of the winning number frequency 
 slug: lotto-analysis
-date: 2025-01-08
+date: 2025-01-12
 image: cover.jpg
 categories:
     - analysis
