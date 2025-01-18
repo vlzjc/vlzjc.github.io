@@ -1,24 +1,23 @@
 ---
 title: Data Visualization of Energy Sources from 1990 to 2020 using Power BI
 description: Simple interactive report on Energy Sources
-slug: Energy Sources
+slug: Energy-Sources
 date: 2025-01-16
 categories:
     - analysis
 tags: 
     - Power Bi
 categories:
-    - Power Bi
     - visualization
 
 links:
-  - title: food stocks comparisons
-    description: food stocks comparisons
+  - title: Data Visualization of Energy Sources from 1990 to 2020 using Power BI
+    description: Simple interactive report on Energy Sources
     website: https://app.powerbi.com/view?r=eyJrIjoiMDYzNmM2YTgtNDRlNC00NGMyLTk2ZDYtYzhmN2ViOGYzZTUxIiwidCI6ImQzMjFjNTNiLWY3NjMtNDJkOS05MGYyLTg4ODFlNDg1NjE5YSIsImMiOjEwfQ%3D%3D
 ---
 
 
-<iframe title="Energy Sources 1990-2020" width= 100% height="580"  src="https://app.powerbi.com/view?r=eyJrIjoiMDYzNmM2YTgtNDRlNC00NGMyLTk2ZDYtYzhmN2ViOGYzZTUxIiwidCI6ImQzMjFjNTNiLWY3NjMtNDJkOS05MGYyLTg4ODFlNDg1NjE5YSIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Energy Sources 1990-2020" width="600" height="373.5"  src="https://app.powerbi.com/view?r=eyJrIjoiMDYzNmM2YTgtNDRlNC00NGMyLTk2ZDYtYzhmN2ViOGYzZTUxIiwidCI6ImQzMjFjNTNiLWY3NjMtNDJkOS05MGYyLTg4ODFlNDg1NjE5YSIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
 
 
 # Project Title: Data Visualization of Energy Sources from 1990 to 2020 using Power BI

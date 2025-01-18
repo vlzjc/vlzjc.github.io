@@ -6,13 +6,25 @@
         <description>Recent content on Jaime Carlos Velez</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Financial Report</title>
+        <link>//localhost:1313/p/fin-report/</link>
+        <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/p/fin-report/</guid>
+        <description>&lt;img src="//localhost:1313/p/fin-report/cover.JPG" alt="Featured image of post Financial Report" /&gt;&lt;iframe title=&#34;Fin Report&#34; width=&#34;600&#34; height=&#34;373.5&#34; src=&#34;https://app.powerbi.com/view?r=eyJrIjoiMmVkNjhlMGUtYTg2Ni00MGI4LWI3YzgtYWM5N2IyNjM2MTIzIiwidCI6ImQzMjFjNTNiLWY3NjMtNDJkOS05MGYyLTg4ODFlNDg1NjE5YSIsImMiOjEwfQ%3D%3D&#34; frameborder=&#34;0&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;resources taken from &lt;a class=&#34;link&#34; href=&#34;https://www.facebook.com/datasenseph&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Data Sense Analytics&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I do apologize if the map on the powerbi isn&amp;rsquo;t working properly. I&amp;rsquo;ll be recreating the same dashboard on Tableau soon, if not already.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Data Visualization of Energy Sources from 1990 to 2020 using Power BI</title>
         <link>//localhost:1313/p/energy-sources/</link>
         <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
         
         <guid>//localhost:1313/p/energy-sources/</guid>
-        <description>&lt;iframe title=&#34;Energy Sources 1990-2020&#34; width= 100% height=&#34;580&#34;  src=&#34;https://app.powerbi.com/view?r=eyJrIjoiMDYzNmM2YTgtNDRlNC00NGMyLTk2ZDYtYzhmN2ViOGYzZTUxIiwidCI6ImQzMjFjNTNiLWY3NjMtNDJkOS05MGYyLTg4ODFlNDg1NjE5YSIsImMiOjEwfQ%3D%3D&#34; frameborder=&#34;0&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+        <description>&lt;iframe title=&#34;Energy Sources 1990-2020&#34; width=&#34;600&#34; height=&#34;373.5&#34;  src=&#34;https://app.powerbi.com/view?r=eyJrIjoiMDYzNmM2YTgtNDRlNC00NGMyLTk2ZDYtYzhmN2ViOGYzZTUxIiwidCI6ImQzMjFjNTNiLWY3NjMtNDJkOS05MGYyLTg4ODFlNDg1NjE5YSIsImMiOjEwfQ%3D%3D&#34; frameborder=&#34;0&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 &lt;h1 id=&#34;project-title-data-visualization-of-energy-sources-from-1990-to-2020-using-power-bi&#34;&gt;Project Title: Data Visualization of Energy Sources from 1990 to 2020 using Power BI
 &lt;/h1&gt;&lt;h2 id=&#34;project-purpose-or-objective&#34;&gt;Project Purpose or Objective:
 &lt;/h2&gt;&lt;p&gt;The objective of this project is to create an interactive and informative chart in Power BI that visualizes the yearly distribution of different energy sources (Biomass, Coal, Geothermal, Hydro, Natural Gas, Oil-based, Solar, and Wind) from 1990 to 2020. This visualization will enable stakeholders to better understand energy trends and transitions over the past three decades, highlighting changes in energy production and shifts toward renewable sources.&lt;/p&gt;
@@ -406,50 +418,42 @@ display(chart)
         <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
         
         <guid>//localhost:1313/p/coffee-sales/</guid>
-        <description>&lt;img src="//localhost:1313/p/coffee-sales/cover.JPG" alt="Featured image of post Coffee Sales Dashboards" /&gt;&lt;h2 id=&#34;excel&#34;&gt;Excel
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;//localhost:1313/p/coffee-sales/cover.JPG&#34;
-	width=&#34;1180&#34;
-	height=&#34;579&#34;
-	srcset=&#34;//localhost:1313/p/coffee-sales/cover_hu8641440446933495159.JPG 480w, //localhost:1313/p/coffee-sales/cover_hu2392947688288904513.JPG 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;203&#34;
-		data-flex-basis=&#34;489px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;h2 id=&#34;tableau&#34;&gt;Tableau
-&lt;/h2&gt;&lt;div class=&#39;tableauPlaceholder&#39; id=&#39;viz1737179273680&#39; style=&#39;position: relative&#39;&gt;&lt;noscript&gt;&lt;a href=&#39;#&#39;&gt;&lt;img alt=&#39;Coffee Dashboard &#39; src=&#39;https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;GS&amp;#47;GSH7C4Z74&amp;#47;1_rss.png&#39; style=&#39;border: none&#39; /&gt;&lt;/a&gt;&lt;/noscript&gt;&lt;object class=&#39;tableauViz&#39;  style=&#39;display:none;&#39;&gt;&lt;param name=&#39;host_url&#39; value=&#39;https%3A%2F%2Fpublic.tableau.com%2F&#39; /&gt; &lt;param name=&#39;embed_code_version&#39; value=&#39;3&#39; /&gt; &lt;param name=&#39;path&#39; value=&#39;shared&amp;#47;GSH7C4Z74&#39; /&gt; &lt;param name=&#39;toolbar&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;static_image&#39; value=&#39;https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;GS&amp;#47;GSH7C4Z74&amp;#47;1.png&#39; /&gt; &lt;param name=&#39;animate_transition&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_static_image&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_spinner&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_overlay&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_count&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;language&#39; value=&#39;en-US&#39; /&gt;&lt;/object&gt;&lt;/div&gt;                &lt;script type=&#39;text/javascript&#39;&gt;                    var divElement = document.getElementById(&#39;viz1737179273680&#39;);                    var vizElement = divElement.getElementsByTagName(&#39;object&#39;)[0];                    if ( divElement.offsetWidth &gt; 800 ) { vizElement.style.minWidth=&#39;420px&#39;;vizElement.style.maxWidth=&#39;1920px&#39;;vizElement.style.width=&#39;100%&#39;;vizElement.style.minHeight=&#39;587px&#39;;vizElement.style.maxHeight=&#39;1107px&#39;;vizElement.style.height=(divElement.offsetWidth*0.75)+&#39;px&#39;;} else if ( divElement.offsetWidth &gt; 500 ) { vizElement.style.width=&#39;100%&#39;;vizElement.style.height=(divElement.offsetWidth*0.75)+&#39;px&#39;;} else { vizElement.style.width=&#39;100%&#39;;vizElement.style.height=&#39;1227px&#39;;}                     var scriptElement = document.createElement(&#39;script&#39;);                    scriptElement.src = &#39;https://public.tableau.com/javascripts/api/viz_v1.js&#39;;                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                &lt;/script&gt;
-&lt;h1 id=&#34;project-titlecoffee-sales-dashboard&#34;&gt;Project Title:Coffee Sales Dashboard
+        <description>&lt;img src="//localhost:1313/p/coffee-sales/cover.JPG" alt="Featured image of post Coffee Sales Dashboards" /&gt;&lt;h1 id=&#34;project-titlecoffee-sales-dashboard&#34;&gt;Project Title:Coffee Sales Dashboard
 &lt;/h1&gt;&lt;h2 id=&#34;project-purpose&#34;&gt;Project Purpose:
 &lt;/h2&gt;&lt;p&gt;The purpose of this project is to create an intuitive, data-driven dashboard that provides real-time insights into coffee sales. This will allow the business team to track key performance metrics, such as sales volume, revenue, and product performance, in order to make informed decisions and improve overall business strategy.&lt;/p&gt;
 &lt;h2 id=&#34;project-scope&#34;&gt;Project Scope:
 &lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;In Scope:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Design and development of an interactive dashboard.
-Visualization of sales metrics like revenue, sales volume, and trends.
-Ability to filter data by time periods (monthly).&lt;/p&gt;
+&lt;li&gt;
+&lt;p&gt;In Scope:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Out of Scope:&lt;/li&gt;
+&lt;li&gt;Design and development of an interactive dashboard.&lt;/li&gt;
+&lt;li&gt;Visualization of sales metrics like revenue, sales volume, and trends.&lt;/li&gt;
+&lt;li&gt;Ability to filter data by time periods (monthly).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Integration with existing coffee sales data (from POS system or sales database).
-Mobile app development.
-Inventory tracking.
-Integration with external third-party systems.
-Key Deliverables:&lt;/p&gt;
-&lt;p&gt;A fully functional coffee sales dashboard.
-User documentation and training materials.
-Final report on dashboard usage and performance metrics.
-Deployment and support for initial post-launch period.
-Resources:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Out of Scope:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Integration with existing coffee sales data (from POS system or sales database).&lt;/li&gt;
+&lt;li&gt;Mobile app development.&lt;/li&gt;
+&lt;li&gt;Inventory tracking.&lt;/li&gt;
+&lt;li&gt;Integration with external third-party systems.&lt;/li&gt;
+&lt;li&gt;Key Deliverables:&lt;/li&gt;
+&lt;li&gt;A fully functional coffee sales dashboard.&lt;/li&gt;
+&lt;li&gt;User documentation and training materials.&lt;/li&gt;
+&lt;li&gt;Final report on dashboard usage and performance metrics.&lt;/li&gt;
+&lt;li&gt;Deployment and support for initial post-launch period.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;stakeholders&#34;&gt;Stakeholders:
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Project Lead: Responsible for managing the project and ensuring timely delivery. (Yours Truly)&lt;/li&gt;
 &lt;li&gt;Data Analysts: Assist in preparing and analyzing the data for meaningful insights. (the Author, Me, and I)&lt;/li&gt;
 &lt;li&gt;End Users/Stakeholders: Decision-makers who will use the visualized data to understand energy trends and inform future strategies.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;tableau-version&#34;&gt;Tableau version
+&lt;/h2&gt;&lt;div class=&#39;tableauPlaceholder&#39; id=&#39;viz1737179273680&#39; style=&#39;position: relative&#39;&gt;&lt;noscript&gt;&lt;a href=&#39;#&#39;&gt;&lt;img alt=&#39;Coffee Dashboard &#39; src=&#39;https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;GS&amp;#47;GSH7C4Z74&amp;#47;1_rss.png&#39; style=&#39;border: none&#39; /&gt;&lt;/a&gt;&lt;/noscript&gt;&lt;object class=&#39;tableauViz&#39;  style=&#39;display:none;&#39;&gt;&lt;param name=&#39;host_url&#39; value=&#39;https%3A%2F%2Fpublic.tableau.com%2F&#39; /&gt; &lt;param name=&#39;embed_code_version&#39; value=&#39;3&#39; /&gt; &lt;param name=&#39;path&#39; value=&#39;shared&amp;#47;GSH7C4Z74&#39; /&gt; &lt;param name=&#39;toolbar&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;static_image&#39; value=&#39;https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;GS&amp;#47;GSH7C4Z74&amp;#47;1.png&#39; /&gt; &lt;param name=&#39;animate_transition&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_static_image&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_spinner&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_overlay&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_count&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;language&#39; value=&#39;en-US&#39; /&gt;&lt;/object&gt;&lt;/div&gt;                &lt;script type=&#39;text/javascript&#39;&gt;                    var divElement = document.getElementById(&#39;viz1737179273680&#39;);                    var vizElement = divElement.getElementsByTagName(&#39;object&#39;)[0];                    if ( divElement.offsetWidth &gt; 800 ) { vizElement.style.minWidth=&#39;420px&#39;;vizElement.style.maxWidth=&#39;1920px&#39;;vizElement.style.width=&#39;100%&#39;;vizElement.style.minHeight=&#39;587px&#39;;vizElement.style.maxHeight=&#39;1107px&#39;;vizElement.style.height=(divElement.offsetWidth*0.75)+&#39;px&#39;;} else if ( divElement.offsetWidth &gt; 500 ) { vizElement.style.width=&#39;100%&#39;;vizElement.style.height=(divElement.offsetWidth*0.75)+&#39;px&#39;;} else { vizElement.style.width=&#39;100%&#39;;vizElement.style.height=&#39;1227px&#39;;}                     var scriptElement = document.createElement(&#39;script&#39;);                    scriptElement.src = &#39;https://public.tableau.com/javascripts/api/viz_v1.js&#39;;                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                &lt;/script&gt;
 </description>
         </item>
         <item>

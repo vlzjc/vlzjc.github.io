@@ -2,49 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Jaime Carlos Velez</title>
-        <link>//localhost:1313/categories/</link>
+        <link>//localhost:61702/categories/</link>
         <description>Recent content in Categories on Jaime Carlos Velez</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Power Bi</title>
-        <link>//localhost:1313/categories/power-bi/</link>
-        <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+        <lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:61702/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>programming</title>
+        <link>//localhost:61702/categories/programming/</link>
+        <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/categories/power-bi/</guid>
-        <description></description>
+        <guid>//localhost:61702/categories/programming/</guid>
+        <description>&lt;img src="//localhost:61702/categories/programming/programming.jpg" alt="Featured image of post programming" /&gt;</description>
         </item>
         <item>
         <title>visualization</title>
-        <link>//localhost:1313/categories/visualization/</link>
-        <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+        <link>//localhost:61702/categories/visualization/</link>
+        <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/categories/visualization/</guid>
-        <description>&lt;img src="//localhost:1313/categories/visualization/visualize.jpg" alt="Featured image of post visualization" /&gt;</description>
+        <guid>//localhost:61702/categories/visualization/</guid>
+        <description>&lt;img src="//localhost:61702/categories/visualization/visualize.jpg" alt="Featured image of post visualization" /&gt;</description>
         </item>
         <item>
         <title>ETL</title>
-        <link>//localhost:1313/categories/etl/</link>
+        <link>//localhost:61702/categories/etl/</link>
         <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/categories/etl/</guid>
-        <description>&lt;img src="//localhost:1313/categories/etl/ETL.jpg" alt="Featured image of post ETL" /&gt;</description>
+        <guid>//localhost:61702/categories/etl/</guid>
+        <description>&lt;img src="//localhost:61702/categories/etl/ETL.jpg" alt="Featured image of post ETL" /&gt;</description>
         </item>
         <item>
         <title>data manipulation</title>
-        <link>//localhost:1313/categories/data-manipulation/</link>
+        <link>//localhost:61702/categories/data-manipulation/</link>
         <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/categories/data-manipulation/</guid>
-        <description>&lt;img src="//localhost:1313/categories/data-manipulation/manipulation.jpg" alt="Featured image of post data manipulation" /&gt;</description>
-        </item>
-        <item>
-        <title>programming</title>
-        <link>//localhost:1313/categories/programming/</link>
-        <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
-        
-        <guid>//localhost:1313/categories/programming/</guid>
-        <description>&lt;img src="//localhost:1313/categories/programming/programming.jpg" alt="Featured image of post programming" /&gt;</description>
+        <guid>//localhost:61702/categories/data-manipulation/</guid>
+        <description>&lt;img src="//localhost:61702/categories/data-manipulation/manipulation.jpg" alt="Featured image of post data manipulation" /&gt;</description>
         </item>
         
     </channel>
