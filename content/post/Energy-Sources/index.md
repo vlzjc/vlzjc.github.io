@@ -39,16 +39,12 @@ The project will:
 * A detailed report summarizing key trends, such as the rise of renewable energy sources (e.g., Solar and Wind) and the decline of fossil fuels (e.g., Coal and Oil).
 * The Power BI file (.pbix) with the completed visualization, accessible for further analysis.
 * A presentation of the chart findings, including insights on energy transitions.
-## Timeline:
-* Project Start Date: January 16, 2025
-* Data Import & Preparation: January 17–18, 2025
-* Chart Creation & Customization: January 19–21, 2025
-* Final Review and Adjustments: January 22–23, 2025
-* Project Completion Date: January 23, 2025
+
 ## Resources:
 * Power BI Desktop or Power BI Service
 * The provided dataset (table)
 * Power BI skills to create charts and customize visuals
+
 ## Stakeholders:
 * Project Lead: Responsible for managing the project and ensuring timely delivery. (Yours Truly)
 * Data Analysts: Assist in preparing and analyzing the data for meaningful insights. (the Author, Me, and I)
