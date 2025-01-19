@@ -7,4 +7,5 @@ menu:
         params:
             icon: Infinity
 slug: "misc"
+draft: true
 ---
