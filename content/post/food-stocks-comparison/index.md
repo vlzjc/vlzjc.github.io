@@ -12,11 +12,6 @@ tags:
 categories:
     - ETL
     - visualization
-
-links:
-  - title: food stocks comparisons
-    description: food stocks comparisons
-    website: 
 ---
 
 Before Getting Started make sure you got pip and python 3.8 or higher
