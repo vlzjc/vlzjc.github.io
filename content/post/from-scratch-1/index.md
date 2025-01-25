@@ -87,30 +87,22 @@ To analyze the rapid rise and fall of the COVID-19 pandemic and present the insi
 ## Timeline
 
   1. Project Initiation (2 Days)
-
-    * Define requirements, objectives, and team roles.
-
-    * Identify and source COVID-19 datasets.
+  * Define requirements, objectives, and team roles.
+  * Identify and source COVID-19 datasets.
 
   2. Data Collection and Preparation (1 week)
-
-    * Extract, clean, and transform data using Python, Excel, and MySQL.
+  * Extract, clean, and transform data using Python, Excel, and MySQL.
 
   3. Data Exploration and Analysis (3 days)
-
-    * Perform exploratory data analysis (EDA) to uncover trends.
+  * Perform exploratory data analysis (EDA) to uncover trends.
 
   4. Dashboard Development (2 Days)
-
-    * Create visualizations using Tableau and Power BI.
-
-    * Integrate visualizations into an interactive dashboard.
+  * Create visualizations using Tableau and Power BI.
+  * Integrate visualizations into an interactive dashboard.
 
   5. Testing and Deployment (2 weeks)
-
-    * Test the dashboard for accuracy and user experience.
-
-    * Deploy the dashboard for stakeholder access.
+  * Test the dashboard for accuracy and user experience.
+  * Deploy the dashboard for stakeholder access.
 
 ## Assumptions and Constraints
 

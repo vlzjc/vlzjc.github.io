@@ -95,34 +95,36 @@
 &lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;Project Initiation (2 Days)&lt;/li&gt;
 &lt;/ol&gt;
-&lt;pre&gt;&lt;code&gt;* Define requirements, objectives, and team roles.
-
-* Identify and source COVID-19 datasets.
-&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Define requirements, objectives, and team roles.&lt;/li&gt;
+&lt;li&gt;Identify and source COVID-19 datasets.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;ol start=&#34;2&#34;&gt;
 &lt;li&gt;Data Collection and Preparation (1 week)&lt;/li&gt;
 &lt;/ol&gt;
-&lt;pre&gt;&lt;code&gt;* Extract, clean, and transform data using Python, Excel, and MySQL.
-&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Extract, clean, and transform data using Python, Excel, and MySQL.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;ol start=&#34;3&#34;&gt;
 &lt;li&gt;Data Exploration and Analysis (3 days)&lt;/li&gt;
 &lt;/ol&gt;
-&lt;pre&gt;&lt;code&gt;* Perform exploratory data analysis (EDA) to uncover trends.
-&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Perform exploratory data analysis (EDA) to uncover trends.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;ol start=&#34;4&#34;&gt;
 &lt;li&gt;Dashboard Development (2 Days)&lt;/li&gt;
 &lt;/ol&gt;
-&lt;pre&gt;&lt;code&gt;* Create visualizations using Tableau and Power BI.
-
-* Integrate visualizations into an interactive dashboard.
-&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Create visualizations using Tableau and Power BI.&lt;/li&gt;
+&lt;li&gt;Integrate visualizations into an interactive dashboard.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;ol start=&#34;5&#34;&gt;
 &lt;li&gt;Testing and Deployment (2 weeks)&lt;/li&gt;
 &lt;/ol&gt;
-&lt;pre&gt;&lt;code&gt;* Test the dashboard for accuracy and user experience.
-
-* Deploy the dashboard for stakeholder access.
-&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Test the dashboard for accuracy and user experience.&lt;/li&gt;
+&lt;li&gt;Deploy the dashboard for stakeholder access.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;assumptions-and-constraints&#34;&gt;Assumptions and Constraints
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;

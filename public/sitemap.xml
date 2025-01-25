@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/p/from-scratch-1/</loc>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
-    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/p/from-scratch-1/</loc>
-    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/excel/</loc>
-    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/mysql/</loc>
-    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/</loc>
-    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/powerbi/</loc>
-    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/python/</loc>
-    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/tableau/</loc>
-    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
-    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/visualization/</loc>
-    <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/p/fin-report/</loc>
     <lastmod>2025-01-18T00:00:00+00:00</lastmod>
