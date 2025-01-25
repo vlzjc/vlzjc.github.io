@@ -6,18 +6,180 @@
         <description>Recent content on Jaime Carlos Velez</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Data Analysis: From scratch</title>
+        <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>COVID-19: A Retrospective</title>
         <link>//localhost:1313/p/from-scratch-1/</link>
-        <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
         
         <guid>//localhost:1313/p/from-scratch-1/</guid>
-        <description>&lt;h1 id=&#34;data-analysis-from-scratch&#34;&gt;Data Analysis: From scratch
-&lt;/h1&gt;&lt;p&gt;DATA TAKEN FROM &lt;a class=&#34;link&#34; href=&#34;https://ourworldindata.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://ourworldindata.org/&lt;/a&gt;
-and
-&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://en.wikipedia.org/&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;img src="//localhost:1313/p/from-scratch-1/cover.JPG" alt="Featured image of post COVID-19: A Retrospective" /&gt;&lt;div class=&#39;tableauPlaceholder&#39; id=&#39;viz1737768939573&#39; style=&#39;position: relative&#39;&gt;
+  &lt;noscript&gt;
+    &lt;a href=&#39;#&#39;&gt;
+      &lt;img alt=&#39;Dashboard 1 &#39; src=&#39;https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;co&amp;#47;covid19_17377686885900&amp;#47;Dashboard1&amp;#47;1_rss.png&#39; style=&#39;border: none&#39; /&gt;
+    &lt;/a&gt;&lt;/noscript&gt;
+    &lt;object class=&#39;tableauViz&#39;  style=&#39;display:none;&#39;&gt;
+      &lt;param name=&#39;host_url&#39; value=&#39;https%3A%2F%2Fpublic.tableau.com%2F&#39; /&gt;
+      &lt;param name=&#39;embed_code_version&#39; value=&#39;3&#39; /&gt;
+      &lt;param name=&#39;path&#39; value=&#39;views&amp;#47;covid19_17377686885900&amp;#47;Dashboard1?:language=en-US&amp;amp;:embed=true&amp;amp;:sid=&amp;amp;:redirect=auth&#39; /&gt;
+      &lt;param name=&#39;toolbar&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;static_image&#39; value=&#39;https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;co&amp;#47;covid19_17377686885900&amp;#47;Dashboard1&amp;#47;1.png&#39; /&gt;
+      &lt;param name=&#39;animate_transition&#39; value=&#39;yes&#39; /&gt;
+      &lt;param name=&#39;display_static_image&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_spinner&#39; value=&#39;yes&#39; /&gt;
+      &lt;param name=&#39;display_overlay&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_count&#39; value=&#39;yes&#39; /&gt;
+      &lt;param name=&#39;language&#39; value=&#39;en-US&#39; /&gt;
+    &lt;/object&gt;
+&lt;/div&gt;
+&lt;script type=&#39;text/javascript&#39;&gt;
+  var divElement = document.getElementById(&#39;viz1737768939573&#39;);
+  var vizElement = divElement.getElementsByTagName(&#39;object&#39;)[0];
+    vizElement.style.width= &#39;100vh&#39;;
+    vizElement.style.height=&#39;835px&#39;;
+  var scriptElement = document.createElement(&#39;script&#39;);
+  scriptElement.src = &#39;https://public.tableau.com/javascripts/api/viz_v1.js&#39;;
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+&lt;/script&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://public.tableau.com/views/covid19_17377686885900/Dashboard1?:language=en-US&amp;amp;:sid=&amp;amp;:redirect=auth&amp;amp;:display_count=n&amp;amp;:origin=viz_share_link&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Tableau Dashboard&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;covid-19-a-retrospective&#34;&gt;COVID-19: A Retrospective
+&lt;/h1&gt;&lt;h2 id=&#34;project-purpose&#34;&gt;Project Purpose
+&lt;/h2&gt;&lt;p&gt;To analyze the rapid rise and fall of the COVID-19 pandemic and present the insights through an interactive dashboard. The project aims to provide a simple retrospective of the pandemic, leveraging data from its inception to its rapid eventual decline.&lt;/p&gt;
+&lt;h2 id=&#34;objectives&#34;&gt;Objectives
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Collect, clean, and store COVID-19-related data from reliable sources.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Perform data exploration and transformation using Python, Excel, and MySQL.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Create interactive and insightful visualizations using Tableau and Power BI.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Provide actionable insights on the pandemic’s trends, peak periods, and decline.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Deliver a fully functional dashboard&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;scope&#34;&gt;Scope
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;In-Scope:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Collection of COVID-19 data, including cases, deaths, tests and vaccination rates.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Data processing using Python, Excel, and MySQL for ETL (Extract, Transform, Load).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Development of data visualizations using Tableau and Power BI.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Deployment of a dashboard accessible to stakeholders.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Out-of-Scope&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Predictive modeling or forecasting of future pandemics.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Integration with live or real-time data feeds.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;timeline&#34;&gt;Timeline
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Project Initiation (2 Days)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;* Define requirements, objectives, and team roles.
+
+* Identify and source COVID-19 datasets.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Data Collection and Preparation (1 week)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;* Extract, clean, and transform data using Python, Excel, and MySQL.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Data Exploration and Analysis (3 days)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;* Perform exploratory data analysis (EDA) to uncover trends.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Dashboard Development (2 Days)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;* Create visualizations using Tableau and Power BI.
+
+* Integrate visualizations into an interactive dashboard.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Testing and Deployment (2 weeks)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;* Test the dashboard for accuracy and user experience.
+
+* Deploy the dashboard for stakeholder access.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;assumptions-and-constraints&#34;&gt;Assumptions and Constraints
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Assumptions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Data sources will provide reliable and complete COVID-19 datasets.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The tools used (Python, Excel, MySQL, Tableau, Power BI) are sufficient for the project’s scope.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Stakeholders will provide timely feedback during reviews.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Constraints:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Limited budget for software licenses and infrastructure.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dependence on historical data completeness and accuracy.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;risk-overview&#34;&gt;Risk Overview
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Data Quality Risks: Incomplete or inconsistent datasets may affect analysis.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Mitigation: Use data validation techniques and reliable sources.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Technical Risks: Challenges in integrating tools (e.g., MySQL to Tableau).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Mitigation: Conduct testing and ensure technical compatibility. Review available resources and workarounds&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Timeline Risks: Delays in data preparation or dashboard development.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Mitigation: Set buffer times and conduct regular progress reviews.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;sources&#34;&gt;Sources
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://ourworldindata.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://ourworldindata.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://en.wikipedia.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.google.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.google.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;PS: The cover image is the PowerBI dashboard.&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -29,7 +191,6 @@ and
         <description>&lt;img src="//localhost:1313/p/fin-report/cover.JPG" alt="Featured image of post Financial Report" /&gt;&lt;iframe title=&#34;Fin Report&#34; width=&#34;600&#34; height=&#34;373.5&#34; src=&#34;https://app.powerbi.com/view?r=eyJrIjoiMmVkNjhlMGUtYTg2Ni00MGI4LWI3YzgtYWM5N2IyNjM2MTIzIiwidCI6ImQzMjFjNTNiLWY3NjMtNDJkOS05MGYyLTg4ODFlNDg1NjE5YSIsImMiOjEwfQ%3D%3D&#34; frameborder=&#34;0&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;resources taken from &lt;a class=&#34;link&#34; href=&#34;https://www.facebook.com/datasenseph&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Data Sense Analytics&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I do apologize if the map on the powerbi isn&amp;rsquo;t working properly. I&amp;rsquo;ll be recreating the same dashboard on Tableau soon, if not already.&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -1954,13 +2115,13 @@ Date
         <guid>//localhost:1313/aboutme/aboutme/</guid>
         <description>&lt;h1 id=&#34;-jaime-here&#34;&gt;👋 Jaime Here!
 &lt;/h1&gt;&lt;p&gt;Data Analyst&lt;/p&gt;
-&lt;h2 id=&#34;who-am-i&#34;&gt;who am I?
-&lt;/h2&gt;&lt;p&gt;And yes, I did use my name as a greeting. &lt;em&gt;/Hay.-meh/&lt;/em&gt; :)&lt;/p&gt;
+&lt;p&gt;And yes, I did use my name as a greeting. &lt;em&gt;/Hay.-meh/&lt;/em&gt; :)&lt;/p&gt;
 &lt;p&gt;I would say that I am a data-savvy professional. Currently, I’m in charge of a small manufacturing business, where I lead a cross-functional team, overseeing logistics, sales, customer service, and ensure smooth operations. From streamlining processes to generating insightful reports.&lt;/p&gt;
-&lt;p&gt;With a background in Computer Science, I’ve always been drawn to data and technology, leading me to earn certifications in Google Data Analytics, Business Intelligence, and Six Sigma. Whether it’s transcribing audio with precision, or creating dashboards in Excel,  I thrive on challenges that blend strategy, analysis, and teamwork.&lt;/p&gt;
-&lt;p&gt;Outside of work, you would maybe find me gaming. I like how gamers really use data-driven decisions. Whether it’s analyzing stats to improve strategies, or which skills work best with what armor and weapons. Have you seen the player in Elden Ring one-shotting bosses? That there is hundreds of rows and columns containing stats, gears, consumables, etc. I love using my analytical mindset with a bit of fun or watch people use it. For me, it’s all about discovering new ways to play and solve problems at the same time. aside from that&amp;hellip; I&amp;rsquo;m prolly watching movies or a series or listening to an audio fiction&lt;/p&gt;
+&lt;p&gt;With a background in Computer Science, I’ve always been drawn to data and technology, leading me to earn certifications in Google Data Analytics, Business Intelligence, and now furthering my knowlegde on Advanced Data Analytics. Whether it’s exploration, collection, or creating dashboards,  I thrive on challenges that blend strategy, analysis, and creativity.&lt;/p&gt;
+&lt;p&gt;Outside of work, you’ll probably find me gaming. I enjoy how gamers use data to make decisions, like analyzing stats or finding the best gear combinations. Ever seen someone one-shot bosses in Elden Ring? That takes hours of data and strategy. I like how people use an analytical mindset for fun, and sometimes I enjoy playing too.&lt;/p&gt;
 &lt;p&gt;Thanks for stopping by! Feel free to connect with me on LinkedIn or drop a message—I&amp;rsquo;d love to chat!
 all the links are in the sidebar&#39;&lt;/p&gt;
+&lt;p&gt;Allons-y!!&lt;/p&gt;
 </description>
         </item>
         <item>
