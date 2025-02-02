@@ -5,40 +5,43 @@
     <loc>//localhost:1313/p/from-scratch-1/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/p/from-scratch-1/</loc>
+    <loc>//localhost:1313/p/stock-market-analysis/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
-    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/p/churn-analysis/</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/excel/</loc>
-    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/mysql/</loc>
-    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/</loc>
-    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/powerbi/</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/python/</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/visualization/</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/mysql/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/programming/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/python/</loc>
-    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/tags/tableau/</loc>
-    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
-    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/visualization/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/p/fin-report/</loc>

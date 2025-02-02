@@ -6,7 +6,7 @@
         <description>Recent content on Jaime Carlos Velez</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 02 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>COVID-19: A Retrospective</title>
         <link>//localhost:1313/p/from-scratch-1/</link>
         <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
@@ -1614,6 +1614,31 @@ memory usage: 54.9+ KB
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>Customer Churn Analysis</title>
+        <link>//localhost:1313/p/churn-analysis/</link>
+        <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/p/churn-analysis/</guid>
+        <description>&lt;h1 id=&#34;customer-churn-analysis-report&#34;&gt;Customer Churn Analysis Report
+&lt;/h1&gt;&lt;p&gt;Data Source Taken from: &lt;a class=&#34;link&#34; href=&#34;https://www.kaggle.com/datasets/blastchar/telco-customer-churn/code&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Kaggle Telco Customer Churn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/p/churn-analysis/Customer-Churn.png&#34;
+	width=&#34;862&#34;
+	height=&#34;1701&#34;
+	srcset=&#34;//localhost:1313/p/churn-analysis/Customer-Churn_hu16438364542708018223.png 480w, //localhost:1313/p/churn-analysis/Customer-Churn_hu11722836541933122173.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;50&#34;
+		data-flex-basis=&#34;121px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Link to &lt;a class=&#34;link&#34; href=&#34;https://github.com/vlzjc/Excel-projects-vlz/blob/main/Customer-Churn.csv&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;CSV File&lt;/a&gt;&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>Financial Report</title>
