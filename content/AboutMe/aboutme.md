@@ -14,20 +14,20 @@ tags:
 ---
 
 # 👋 Jaime Here!
-Data Analyst
 
 And yes, I did use my name as a greeting. */Hay.-meh/* :)
 
-I would say that I am a data-savvy professional. Currently, I’m in charge of a small manufacturing business, where I lead a cross-functional team, overseeing logistics, sales, customer service, and ensure smooth operations. From streamlining processes to generating insightful reports.
+<span style="font-size: 28px;">I'm a data analyst who loves turning numbers into compelling narratives. I'm passionate about digging into data, uncovering insights, and visualizing them in ways that make a real impact. My Computer Science background and certifications in Google Data Analytics, Business Intelligence, and Data Science provide a strong foundation for my analytical work.  Running a small manufacturing business has given me invaluable experience in leading teams and understanding the real-world impact of data-driven decisions. When I'm not working with data, I enjoy gaming – I love the strategic thinking involved. Let's connect! Find me on LinkedIn (links in the sidebar).</span>
 
-With a background in Computer Science, I’ve always been drawn to data and technology, leading me to earn certifications in Google Data Analytics, Business Intelligence, and now furthering my knowlegde on Advanced Data Analytics. Whether it’s exploration, collection, or creating dashboards,  I thrive on challenges that blend strategy, analysis, and creativity.
+<span style="font-size: 28px;">My background in Computer Science gave me a solid tech foundation, which I've built on with certifications in Google Data Analytics, Business Intelligence, and Data Science. I'm always eager to learn new tools and techniques to stay ahead of the curve.</span>
 
-Outside of work, you’ll probably find me gaming. I enjoy how gamers use data to make decisions, like analyzing stats or finding the best gear combinations. Ever seen someone one-shot bosses in Elden Ring? That takes hours of data and strategy. I like how people use an analytical mindset for fun, and sometimes I enjoy playing too.
+<span style="font-size: 28px;">I am currently running a small manufacturing business, which might seem like a detour, but it's been an incredible learning experience.  Leading a team, streamlining operations, and understanding the business side of things has given me a unique perspective on how data can drive real-world impact.  Plus, it generates tons of data – a playground for any analyst!
 
-Thanks for stopping by! Feel free to connect with me on LinkedIn or drop a message—I'd love to chat!
-all the links are in the sidebar'
+<span style="font-size: 28px;">When I'm not wrestling with data (or spreadsheets), you'll probably find me gaming. I love the strategic thinking and data-driven decision-making that goes into even the most casual games.
+
+<span style="font-size: 28px;">Let's connect!  You can find me on LinkedIn (links in the sidebar or the links page).  
+Thanks for stopping by!
 
 
 
-Allons-y!!
-
+<span style="font-size: 56px;">Allons-y!!
