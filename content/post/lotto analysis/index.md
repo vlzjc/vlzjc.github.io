@@ -14,109 +14,53 @@ tags:
 links:
   - title: lotto analysis
     description:
-    website: https://github.com/vlzjc/PowerBI/tree/main/Lotto%20Analysis
+    website: https://github.com/vlzjc/PowerBI/tree/main/LottoAnalysis
 ---
 
-#Lotto Analysis
 
-```python
-import pandas as pd
-import numpy as np
-import itertools as it
-from itertools import combinations
-import matplotlib.pyplot as plt
-import seaborn as sns
-%matplotlib inline 
-```
-importing libraries
-```python
-lotto = pd.read_csv('lotto2024.csv', index_col = False)
-lotto.head()
-```
-reads the csv Excel file and then prints the first five rows of the file
-![Image 1](1.jpg)
+# 6/58 Lotto PCSO 2024
 
-```python
-winNum = pd.DataFrame(lotto["Winning Numbers"].str.split('-').tolist())
-winNum=winNum.apply(pd.to_numeric, errors='coerce')
-```
-these two lines are used to split the Winning numbers column and make then into intergers
+![](22.jpg)
 
-```python
-wsorted_winNum = winNum.apply(lambda x: x.sort_values().reset_index(drop = True)).transpose()
-counts  = pd.Series(winNum.values.tolist()).value_counts()
-display(counts)
-```
-wanted to know if there were an instance where a winning number showed up twice and as expected the there no 6 number combination that shown twice
-```python
-wsorted_winNum = winNum.apply(lambda x: x.sort_values().reset_index(drop = True)).transpose()
-counts  = pd.Series(winNum.values.tolist()).value_counts()
-display(counts)
-```
-the first line makes the dataframe into a list
-and the second line prints the top number
-```python
-import statistics
-mode = statistics.mode(merged_winNum)
-print(mode) #gets the top number
-```
-and so does this but with the Statistics library
-```python
-from collections import Counter
-print(Counter(merged_winNum).most_common(11))
-```
-[(56.0, 26), (5.0, 25), (40.0, 24), (58.0, 22), (10.0, 21), (1.0, 20), (37.0, 20), (30.0, 20), (17.0, 20), (51.0, 20), (44.0, 20)]
+## Project Purpose
 
-this gets the top 11 numbers but I only did because I noticed the top 5 in tied between 6 numbers
-```python
-chart = Counter(merged_winNum).most_common(11)
-display(chart)
-```
-chart = Counter(merged_winNum).most_common(11)
-display(chart)
-[(56.0, 26),
- (5.0, 25),
- (40.0, 24),
- (58.0, 22),
- (10.0, 21),
- (1.0, 20),
- (37.0, 20),
- (30.0, 20),
- (17.0, 20),
- (51.0, 20),
- (44.0, 20)]
+Lotteries are games of chance, but analyzing historical data can reveal interesting trends. This project explored the frequency of drawn numbers in the 6/58 PCSO Lotto for 2024, aiming to identify any potential patterns and provide insights for informational purposes. It's important to remember that lottery draws are ultimately random, and past performance does not guarantee future results. This analysis is purely statistical and for entertainment purposes.  **No predictions are made or implied.** Soon? maybe?
 
-assigned it to a variable
+## Key Findings:
 
-```python
-# Separate data into x and y values
-x_values = [item[0] for item in chart]
-y_values = [item[1] for item in chart]
+**Top 6 Most Drawn Numbers**:<br>
+  🔹 56, 5, 40, 58, 10 <br>
+  🔹 Numbers 1, 17, 30, 37, 44, and 51 are tied for the 6th spot.
 
-# Create a bar chart
-plt.figure(figsize=(10, 6))
-plt.bar(x_values, y_values, color='skyblue')
+## Process
 
-# Add labels and title
-plt.xlabel('Numbers')
-plt.ylabel('frequecy')
-plt.title('chart')
+1.  **Data Acquisition & Preparation:** Energy generation data was scraped from official Lotto wesbite using Excel, then loaded in using Python (Pandas, NumPy).
+2.  **Data Exploration & Modeling:**  Data was explored using Python, then modeled within Power BI.
+    * [Github Notebook](https://github.com/vlzjc/PowerBI/blob/main/LottoAnalysis/data%20analysis%20lotto.ipynb)
+3.  **Dashboard Development:** The dashboard was created in Power BI.
 
-# Display the plot
-plt.show()
-```
-![chart](barchart.jpg)
-```python
-# Create a scatter plot
-plt.figure(figsize=(10, 6))
-plt.scatter(x_values, y_values, color='red', edgecolor='black', s=100)
+## Analysis & Insights:
 
-# Add labels and title
-plt.xlabel('X Values')
-plt.ylabel('Frequencies')
-plt.title('Scatter')
+The bar chart highlights the frequency of each number drawn, while the line graph represents the prize amounts won each month, with notable peaks in October and December. Although high-frequency numbers may suggest patterns, it is important to remember that lotto draws remain entirely random.
 
-# Display the plot
-plt.show()
-```
-![scatter](scatter.jpg)
+## My Role & Contributions:
+
+*   Collected and cleaned the 6/58 PCSO Lotto data for 2024 from [the official PCSO website](https://www.pcso.gov.ph/searchlottoresult.aspx), ensuring data accuracy and consistency for analysis.
+*   "Developed the visualizations (bar chart and line graph) in Power BI to effectively communicate the number frequency and prize amount trends."
+*   "Analyzed the data to identify the most frequently drawn numbers and any potential patterns in prize distribution."
+
+## Tools Used:
+
+Python (for data cleaning/analysis if used), Power BI (for visualization)
+
+## Key Learnings:
+
+This project provided valuable experience in working with real-world lottery data and visualizing trends. I learned how to effectively present statistical information in a clear and engaging way using Power BI, emphasizing the importance of responsible interpretation of data. I also learned that following the pi(π) sequence is much easier or 
+
+
+
+**Crucial Reminders:**
+
+*   **Disclaimer:** It's *extremely* important to reiterate the randomness of lotto draws and that this analysis is for informational and entertainment purposes only. I do not encourage gambling.
+*   **Data Source:** [the official PCSO website](https://www.pcso.gov.ph/searchlottoresult.aspx)
+*   **Disclaimer**: The Odds is 1 out of 40,475,358 combinations. 1% of that is 404753.58, If ₱20.00 You'll need about ₱ 8,095,071.00 for 1%

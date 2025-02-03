@@ -21,6 +21,14 @@ links:
 weight: 1
 ---
 
+
+# COVID-19: A Retrospective (Portfolio Project)
+
+
+## Tableau version
+
+[***Tableau Dashboard LINK***](https://public.tableau.com/views/covid19_17377686885900/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 <div class='tableauPlaceholder' id='viz1737768939573' style='position: relative'>
   <noscript>
     <a href='#'>
@@ -47,96 +55,61 @@ weight: 1
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-[Tableau Dashboard](https://public.tableau.com/views/covid19_17377686885900/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-# COVID-19: A Retrospective
+## Power BI
+
+
+
+![](22.jpg)
 
 ## Project Purpose
-To analyze the rapid rise and fall of the COVID-19 pandemic and present the insights through an interactive dashboard. The project aims to provide a simple retrospective of the pandemic, leveraging data from its inception to its rapid eventual decline.
 
-## Objectives
+The COVID-19 pandemic presented a unique challenge: how to effectively communicate vast amounts of complex data to a broad audience. This project aimed to address this challenge by creating an interactive dashboard that provides stakeholders with a clear and insightful retrospective of the pandemic's progression.  The dashboard visualizes key pandemic metrics, including recorded cases (acknowledging the data's modeled nature, which highlighted the importance of understanding data limitations), vaccinations, mortality, and testing data, broken down by continent. A time slider enables users to explore trends over time.
 
-1. Collect, clean, and store COVID-19-related data from reliable sources.
+## **Key Features & Insights:**
 
-2. Perform data exploration and transformation using Python, Excel, and MySQL.
+*   **Interactive Exploration:** Explore pandemic trends over time with an intuitive time slider.
+*   **Global Perspective:** Visualize global case distribution on a central map.
+*   **Continental Analysis:** Analyze vaccinations, deaths, and testing data by continent.
+*   **Data Transparency:** Clear acknowledgment of the data's modeled nature promotes responsible interpretation.
 
-3. Create interactive and insightful visualizations using Tableau and Power BI.
+## Process
 
-4. Provide actionable insights on the pandemic’s trends, peak periods, and decline.
+1.  **Data Acquisition:**
+    *   COVID-19 data retrieved from the Our World in Data API.
+    *   Countries data sourced from Google and Wikipedia.
+    *   [Acquisition Code](https://github.com/vlzjc/covid-report/blob/main/getData.ipynb)
 
-5. Deliver a fully functional dashboard
+2.  **Data Exploration (SQL):**
+    *   Data loaded into a MySQL database.
+    *   Performed exploratory data analysis (EDA) using SQL queries to identify trends, patterns, and potential data quality issues.  This included aggregations, joins, and filtering to understand the data's structure and identify key insights.
 
-## Scope
+3.  **Initial Data Preparation (Python):**
+    *   Data cleaning and preprocessing performed using Python based on insights gained from the SQL exploration.
+    *   Processed data saved as Excel files for easier integration with Power BI.
 
-* In-Scope:
+4.  **Data Loading (Power BI):**
+    *   Excel files loaded into Power BI.
 
-  * Collection of COVID-19 data, including cases, deaths, tests and vaccination rates.
+5.  **Data Cleaning and Transformation (Power BI):**
+    *   Further data cleaning and transformation within Power BI using its data modeling capabilities. This included handling missing values, data type conversions, and creating calculated columns.
 
-  * Data processing using Python, Excel, and MySQL for ETL (Extract, Transform, Load).
+6.  **Dashboard Development (Power BI & Tableau):**
+    *   Visualizations created and designed within the Power BI dashboard, leveraging the insights discovered during the SQL exploration phase.  This included charts, graphs, maps, and other interactive elements.
 
-  * Development of data visualizations using Tableau and Power BI.
 
-  * Deployment of a dashboard accessible to stakeholders.
+## **My Role & Contributions:**
 
-* Out-of-Scope
+I played a key role in this project, including:
 
-  * Predictive modeling or forecasting of future pandemics.
+*   Data cleaning and preprocessing using Python, addressing inconsistencies and missing values to ensure data quality.
+*   Developing the data model in Power BI, optimizing it for performance and interactive exploration.
+*   Designing and implementing the interactive visualizations, including the global case distribution map and continental trend charts.
+*   Deploying the final dashboard for stakeholder access.
 
-  * Integration with live or real-time data feeds.
+## **Tools Used:** Python, Excel, MySQL, Power BI
 
-## Timeline
+## **Key Learnings:**
 
-  1. Project Initiation (2 Days)
-  * Define requirements, objectives, and team roles.
-  * Identify and source COVID-19 datasets.
+This project reinforced the importance of data transparency, especially when dealing with modeled or estimated data.  I also gained valuable experience in optimizing Power BI dashboards for interactive exploration and performance.
 
-  2. Data Collection and Preparation (1 week)
-  * Extract, clean, and transform data using Python, Excel, and MySQL.
-
-  3. Data Exploration and Analysis (3 days)
-  * Perform exploratory data analysis (EDA) to uncover trends.
-
-  4. Dashboard Development (2 Days)
-  * Create visualizations using Tableau and Power BI.
-  * Integrate visualizations into an interactive dashboard.
-
-  5. Testing and Deployment (2 weeks)
-  * Test the dashboard for accuracy and user experience.
-  * Deploy the dashboard for stakeholder access.
-
-## Assumptions and Constraints
-
-* Assumptions:
-
-    * Data sources will provide reliable and complete COVID-19 datasets.
-
-    * The tools used (Python, Excel, MySQL, Tableau, Power BI) are sufficient for the project’s scope.
-
-    * Stakeholders will provide timely feedback during reviews.
-
-* Constraints:
-
-  * Limited budget for software licenses and infrastructure.
-
-  * Dependence on historical data completeness and accuracy.
-
-## Risk Overview
-
-1. Data Quality Risks: Incomplete or inconsistent datasets may affect analysis.
-
-* Mitigation: Use data validation techniques and reliable sources.
-
-2. Technical Risks: Challenges in integrating tools (e.g., MySQL to Tableau).
-
-* Mitigation: Conduct testing and ensure technical compatibility. Review available resources and workarounds
-
-3. Timeline Risks: Delays in data preparation or dashboard development.
-
-* Mitigation: Set buffer times and conduct regular progress reviews.
-
-## Sources
-* https://ourworldindata.org/
-* https://en.wikipedia.org/
-* https://www.google.com/
-
-PS: The cover image is the PowerBI dashboard.

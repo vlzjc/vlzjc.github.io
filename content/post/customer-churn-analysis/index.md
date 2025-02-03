@@ -10,14 +10,23 @@ tags:
     - Excel
     - Python
     - PowerBI
-
+draft: True
 ---
+
 
 # Customer Churn Analysis Report
 
-Data Source Taken from: [Kaggle Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/code)
+[Kaggle Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/code)
 
 
-![](Customer-Churn.png)
+[Report On Customer Churn](Customer-Churn.png)
 
 Link to [CSV File](https://github.com/vlzjc/Excel-projects-vlz/blob/main/Customer-Churn.csv)
+
+
+## Project Purpose
+## Key Features & Insights:
+## Process
+## My Role & Contributions:
+## Tools Used: Python, Power BI
+## Key Learnings:
