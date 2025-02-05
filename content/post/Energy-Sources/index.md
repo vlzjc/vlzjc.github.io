@@ -33,7 +33,7 @@ This project charts the transformation of the global energy generation landscape
 ## Process
 
 1.  **Data Acquisition:** Energy usage data was sourced from [data.gov.ph](https://data.gov.ph/index/public/dataset)
-2.  **Dashboard Development (Power BI):** The interactive dashboard was developed in Power BI, incorporating visualizations such as line charts, bar charts, maps, and tables to effectively communicate the data insights.  *(Mention any specific Power BI features used, e.g., DAX measures, custom visuals.)*
+2.  **Dashboard Development (Power BI):** The interactive dashboard was developed in Power BI, incorporating visualizations such as line charts, bar charts, maps, and tables to effectively communicate the data insights.
 
 ## My Role & Contributions:
 

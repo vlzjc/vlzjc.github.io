@@ -6,7 +6,56 @@
         <description>Recent content on Jaime Carlos Velez</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 05 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Customer Churn Analysis</title>
+        <link>//localhost:1313/p/churn-analysis/</link>
+        <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/p/churn-analysis/</guid>
+        <description>&lt;img src="//localhost:1313/p/churn-analysis/cover.jpg" alt="Featured image of post Customer Churn Analysis" /&gt;&lt;h1 id=&#34;customer-churn-analysis-report&#34;&gt;Customer Churn Analysis Report
+&lt;/h1&gt;&lt;iframe title=&#34;telco_dashboard&#34; width=&#34;600&#34; height=&#34;373.5&#34; src=&#34;https://app.powerbi.com/view?r=eyJrIjoiMTNkYjQwNGItNjZhNi00NDdkLTg1ZDgtYjgyMGQ3ZjJkMTdhIiwidCI6ImQzMjFjNTNiLWY3NjMtNDJkOS05MGYyLTg4ODFlNDg1NjE5YSIsImMiOjEwfQ%3D%3D&#34; frameborder=&#34;0&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;Customer-Churn.png&#34; &gt;Report On Customer Churn&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;highlights-and-insights&#34;&gt;Highlights and Insights
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;High Churn Among Month-to-Month Customers: Despite generating good revenue, this segment experiences a 43% churn rate, indicating a problem with value proposition or price sensitivity. This requires constant and costly customer acquisition efforts.&lt;/li&gt;
+&lt;li&gt;Long-Term Contracts Show Stability: Customers with longer contracts (one and two years) have significantly lower churn rates, demonstrating stability and increased customer lifetime value.&lt;/li&gt;
+&lt;li&gt;Gender Not a Major Churn Factor: While there&amp;rsquo;s a small spending difference between genders (females spending slightly more), gender is not a significant driver of churn.&lt;/li&gt;
+&lt;li&gt;Paperless Billing Associated with Higher Churn: Although popular, customers using paperless billing churn at a higher rate (34%), suggesting potential issues with the digital experience.&lt;/li&gt;
+&lt;li&gt;Churn Decreases with Tenure: Longer tenure is strongly correlated with lower churn. Customers who stay longer are less likely to leave, and they also tend to spend more.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;key-recommendations&#34;&gt;Key Recommendations
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Focus on Targeted Strategies&lt;/strong&gt;: The analysis suggests targeted interventions&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Month-to-Month&lt;/strong&gt;: Improve value, investigate churn drivers (e.g., price).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Long-Term Contracts&lt;/strong&gt;: Incentivize upgrades and simplify the process.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Paperless Billing&lt;/strong&gt;: Improve the digital experience, investigate reasons for churn.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tenure&lt;/strong&gt;: Implement tiered customer lifecycle management with onboarding for new customers and loyalty programs for long-term customers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary
+&lt;/h2&gt;&lt;p&gt;The Telco Churn Analysis identifies key drivers of customer churn and provides recommendations for improvement.  The most critical finding is the high churn rate (43%) among month-to-month customers, despite their substantial revenue contribution. This necessitates ongoing customer acquisition efforts.  Conversely, long-term contracts (one and two years) demonstrate significantly lower churn and higher customer lifetime value.  While gender doesn&amp;rsquo;t significantly impact churn, a small spending difference between genders warrants further investigation.  Surprisingly, paperless billing, while popular, is associated with a higher churn rate (34%), suggesting potential issues with the digital experience.  Finally, customer tenure is inversely related to churn; the longer a customer stays, the less likely they are to leave.  Based on these insights, the report recommends improving the value proposition for month-to-month customers, streamlining the upgrade process for long-term contracts, investigating the reasons behind paperless billing churn, and implementing a tiered customer lifecycle management approach focusing on onboarding for new customers and loyalty programs for long-term customers.&lt;/p&gt;
+&lt;h2 id=&#34;project-purpose&#34;&gt;Project Purpose
+&lt;/h2&gt;&lt;p&gt;This project aimed to analyze customer churn within a telecommunications company to identify key drivers and inform retention strategies.&lt;/p&gt;
+&lt;h2 id=&#34;key-features--insights&#34;&gt;Key Features &amp;amp; Insights:
+&lt;/h2&gt;&lt;p&gt;The analysis revealed correlations between churn and factors like contract type, tenure, and specific service usage, providing actionable insights into customer behavior.&lt;/p&gt;
+&lt;h2 id=&#34;process&#34;&gt;Process
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Data Acquisition:&lt;/strong&gt; Telco data was sourced from &lt;a class=&#34;link&#34; href=&#34;https://www.kaggle.com/datasets/blastchar/telco-customer-churn/code&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Kaggle Telco Customer Churn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data Cleaning:&lt;/strong&gt; Cleaning and preparation was done with &lt;a class=&#34;link&#34; href=&#34;https://github.com/vlzjc/churn-analysis/blob/main/data_cleaning.ipynb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Jupyter Notebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exploratory Data analysis:&lt;/strong&gt; The initial and all data exploration was also done on &lt;a class=&#34;link&#34; href=&#34;https://github.com/vlzjc/churn-analysis/blob/main/telco-churn-analysis.ipynb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Jupyter Notebook&lt;/a&gt; where I have gathered my early insights to help me with my visualization &lt;a class=&#34;link&#34; href=&#34;Customer-Churn.png&#34; &gt;Initial Report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dashboard Development (Power BI):&lt;/strong&gt; The interactive dashboard was developed in Power BI, incorporating visualizations such as line charts, bar charts, maps, and tables to effectively communicate the data insights.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;my-role--contributions&#34;&gt;My Role &amp;amp; Contributions:
+&lt;/h2&gt;&lt;p&gt;responsible for the entire project lifecycle, from data cleaning and analysis to visualization and presentation of findings.&lt;/p&gt;
+&lt;h2 id=&#34;tools-used&#34;&gt;Tools Used:
+&lt;/h2&gt;&lt;p&gt;Python, Excel, Power BI&lt;/p&gt;
+&lt;h2 id=&#34;key-learnings&#34;&gt;Key Learnings:
+&lt;/h2&gt;&lt;p&gt;I gained proficiency in data analysis techniques, dashboard development, and translating data insights into actionable business recommendations.  This project also provided valuable experience in learning about the telecommunications industry and expanding my knowledge of Power BI&amp;rsquo;s advanced capabilities.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>COVID-19: A Retrospective</title>
         <link>//localhost:1313/p/from-scratch-1/</link>
         <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
@@ -199,7 +248,7 @@ still image&lt;/p&gt;
 &lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Data Acquisition:&lt;/strong&gt; Energy usage data was sourced from &lt;a class=&#34;link&#34; href=&#34;https://data.gov.ph/index/public/dataset&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;data.gov.ph&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Dashboard Development (Power BI):&lt;/strong&gt; The interactive dashboard was developed in Power BI, incorporating visualizations such as line charts, bar charts, maps, and tables to effectively communicate the data insights.  &lt;em&gt;(Mention any specific Power BI features used, e.g., DAX measures, custom visuals.)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dashboard Development (Power BI):&lt;/strong&gt; The interactive dashboard was developed in Power BI, incorporating visualizations such as line charts, bar charts, maps, and tables to effectively communicate the data insights.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;my-role--contributions&#34;&gt;My Role &amp;amp; Contributions:
 &lt;/h2&gt;&lt;ul&gt;

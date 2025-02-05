@@ -18,7 +18,6 @@ links:
   - title: "Data Analysis: From scratch"
     description: this is an END TO END PROJECT using python, a little excel, sql/mysql, tabluea, powerbi
     website: https://github.com/vlzjc/covid-report
-weight: 1
 ---
 
 
