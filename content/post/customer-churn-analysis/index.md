@@ -11,7 +11,10 @@ tags:
     - Excel
     - Python
     - PowerBI
-draft: false
+links:
+  - title: Customer Churn Analysis
+    description: Telco-Data-Set for analysis
+    website: https://github.com/vlzjc/churn-analysis
 ---
 
 # Customer Churn Analysis Report
@@ -65,6 +68,7 @@ responsible for the entire project lifecycle, from data cleaning and analysis to
 ## Tools Used:
 
 Python, Excel, Power BI
+
 ## Key Learnings:
 
 I gained proficiency in data analysis techniques, dashboard development, and translating data insights into actionable business recommendations.  This project also provided valuable experience in learning about the telecommunications industry and expanding my knowledge of Power BI's advanced capabilities.
