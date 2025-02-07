@@ -70,3 +70,8 @@ This project aimed to create an intuitive, data-driven dashboard providing real-
 Excel (Data Prep and Visualization), Tableau
 
 
+## New Revisions
+
+This is the second version of the dashboard in excel
+
+![](22.jpg)
