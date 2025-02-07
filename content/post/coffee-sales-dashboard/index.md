@@ -74,4 +74,4 @@ Excel (Data Prep and Visualization), Tableau
 
 This is the second version of the dashboard in excel
 
-![](22.jpg)
+![](v2.jpg)
