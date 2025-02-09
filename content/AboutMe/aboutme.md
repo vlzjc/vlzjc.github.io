@@ -11,6 +11,7 @@ menu:
             icon: pdf
 tags:
     - About Me
+draft: true
 ---
 
 # 👋 Jaime Here!

@@ -6,7 +6,37 @@
         <description>Recent content on Jaime Carlos Velez</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 05 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Gallery</title>
+        <link>//localhost:1313/gallery/</link>
+        <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/gallery/</guid>
+        <description>&lt;div class=&#34;gallery&#34;&gt;
+  &lt;a href=&#34;../p/churn-analysis/&#34; class=&#34;gallery-item&#34;&gt;
+  &lt;img src=&#34;./churn.jpg&#34; alt=&#34;Coffee Sales coffee-sales-dashboard&#34;&gt;
+  &lt;/a&gt;
+  &lt;a href=&#34;../p/coffee-sales&#34; class=&#34;gallery-item&#34;&gt;
+  &lt;img src=&#34;../p/coffee-sales/v2.jpg&#34; alt=&#34;Coffee Sales coffee-sales-dashboard&#34;&gt;
+  &lt;/a&gt;
+  &lt;a href=&#34;../p/lotto-analysis&#34; class=&#34;gallery-item&#34;&gt;
+  &lt;img src=&#34;../p/lotto-analysis//22.jpg&#34; alt=&#34;Coffee Sales coffee-sales-dashboard&#34;&gt;
+  &lt;/a&gt;
+  &lt;a href=&#34;../p/energy-sources&#34; class=&#34;gallery-item&#34;&gt;
+  &lt;img src=&#34;./engsrc.jpg&#34; alt=&#34;Energy Sources&#34;&gt;
+  &lt;/a&gt;
+  &lt;a href=&#34;../p/fin-report&#34; class=&#34;gallery-item&#34;&gt;
+  &lt;img src=&#34;../p/fin-report/cover.jpg&#34; alt=&#34;Photo 2&#34;&gt;
+  &lt;/a&gt;
+  &lt;a href=&#34;../p/fin-report&#34; class=&#34;gallery-item&#34;&gt;
+  &lt;img src=&#34;./1.jpg&#34; alt=&#34;Financial Report v2&#34;&gt;
+  &lt;/a&gt;
+  &lt;a href=&#34;../p/from-scratch-1&#34; class=&#34;gallery-item&#34;&gt;
+  &lt;img src=&#34;./covid19.jpg&#34; alt=&#34;Energy Sources&#34;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;</description>
+        </item>
+        <item>
         <title>Customer Churn Analysis</title>
         <link>//localhost:1313/p/churn-analysis/</link>
         <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
@@ -499,6 +529,20 @@ Convert dates, fix numerical values, and ensure categories make sense.&lt;/p&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;tools-used&#34;&gt;Tools Used:
 &lt;/h2&gt;&lt;p&gt;Excel (Data Prep and Visualization), Tableau&lt;/p&gt;
+&lt;h2 id=&#34;new-revisions&#34;&gt;New Revisions
+&lt;/h2&gt;&lt;p&gt;This is the second version of the dashboard in excel&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/p/coffee-sales/v2.JPG&#34;
+	width=&#34;1196&#34;
+	height=&#34;679&#34;
+	srcset=&#34;//localhost:1313/p/coffee-sales/v2_hu719926713024795756.JPG 480w, //localhost:1313/p/coffee-sales/v2_hu6442012604729998452.JPG 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;176&#34;
+		data-flex-basis=&#34;422px&#34;
+	
+&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -1978,21 +2022,6 @@ Date
 </description>
         </item>
         <item>
-        <title>AboutMe</title>
-        <link>//localhost:1313/aboutme/aboutme/</link>
-        <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-        
-        <guid>//localhost:1313/aboutme/aboutme/</guid>
-        <description>&lt;h1 id=&#34;-jaime-here&#34;&gt;👋 Jaime Here!
-&lt;/h1&gt;&lt;p&gt;And yes, I did use my name as a greeting. &lt;em&gt;/Hay.-meh/&lt;/em&gt; :)&lt;/p&gt;
-&lt;p&gt;&lt;span style=&#34;font-size: 28px;&#34;&gt;I’m a data analyst who loves turning numbers into compelling narratives. I’m passionate about digging into data, uncovering insights, and visualizing them in ways that make a real impact. My Computer Science background and certifications in Google Data Analytics, Business Intelligence, and Data Science provide a strong foundation for my analytical work. Running a small manufacturing business has given me invaluable experience in leading teams and understanding the real-world impact of data-driven decisions&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&#34;font-size: 28px;&#34;&gt;When I&amp;rsquo;m not wrestling with data (or spreadsheets), you&amp;rsquo;ll probably find me gaming. I love the strategic thinking and data-driven decision-making that goes into even the most casual games or watching a movie/show, listening to podcasts&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&#34;font-size: 28px;&#34;&gt;Let&amp;rsquo;s connect!  You can find me on LinkedIn (links in the sidebar or the links page).&lt;br&gt;
-Thanks for stopping by!&lt;/p&gt;
-&lt;p&gt;&lt;span style=&#34;font-size: 56px;&#34;&gt;Allons-y!!&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>Archives</title>
         <link>//localhost:1313/archives/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
@@ -2007,31 +2036,6 @@ Thanks for stopping by!&lt;/p&gt;
         
         <guid>//localhost:1313/categories/analysis/</guid>
         <description>&lt;img src="//localhost:1313/categories/analysis/analysis.JPG" alt="Featured image of post analysis" /&gt;</description>
-        </item>
-        <item>
-        <title>Links</title>
-        <link>//localhost:1313/links/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>//localhost:1313/links/</guid>
-        <description>&lt;!--
-To use this feature, add `links` section to frontmatter.
-
-This page&#39;s frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world&#39;s largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images. more--&gt;</description>
         </item>
         <item>
         <title>Search</title>

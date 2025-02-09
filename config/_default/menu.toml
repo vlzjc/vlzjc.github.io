@@ -7,6 +7,15 @@
 #icon = "home"
 #newtab = true
 
+
+[[social]]
+identifier = "CivitAi"
+name = "CivitAi"
+url = "https://civitai.com/user/vlzjc/posts"
+
+[social.params]
+icon = "civitai"
+
 [[social]]
 identifier = "github"
 name = "GitHub"
