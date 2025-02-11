@@ -6,7 +6,87 @@
         <description>Recent content on Jaime Carlos Velez</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>r/Showerthoughts top sentiment analysis</title>
+        <link>//localhost:1313/p/showerthoughts-sentiment/</link>
+        <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/p/showerthoughts-sentiment/</guid>
+        <description>&lt;img src="//localhost:1313/p/showerthoughts-sentiment/cover.jpg" alt="Featured image of post r/Showerthoughts top sentiment analysis" /&gt;&lt;h1 id=&#34;rshowerthoughts-top-of-all-time-sentiment-analysis&#34;&gt;r/Showerthoughts top of all time sentiment analysis
+&lt;/h1&gt;&lt;h2 id=&#34;project-purpose&#34;&gt;Project Purpose
+&lt;/h2&gt;&lt;p&gt;The goal of this sentiment analysis is to understand public perception regarding the subreddit, based on data collected using the Reddit Scrapper API. I analyzed the top posts of all time in the subreddit r/Showerthoughts.&lt;/p&gt;
+&lt;h2 id=&#34;methodology&#34;&gt;Methodology
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Data Collection:
+Using the Reddit Scrapper API, focusing on the TOP posts of ALL TIME&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sentiment Analysis Tool:
+Sentiment analysis was conducted using VADER, a lexicon-based tool that evaluates text for positive, neutral, and negative sentiment.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;key-metrics-and-visualization&#34;&gt;Key Metrics and Visualization
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Visualization
+&lt;img src=&#34;//localhost:1313/p/showerthoughts-sentiment/12.png&#34;
+	width=&#34;562&#34;
+	height=&#34;455&#34;
+	srcset=&#34;//localhost:1313/p/showerthoughts-sentiment/12_hu11905444666103020301.png 480w, //localhost:1313/p/showerthoughts-sentiment/12_hu10204277623447416288.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;123&#34;
+		data-flex-basis=&#34;296px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Most Positive &amp;amp; Negative Posts&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Most Positive Title&lt;/strong&gt;&lt;/em&gt; : College students don&amp;rsquo;t want to go to graduation ceremonies, but they go to please their relatives, while relatives don&amp;rsquo;t want to go but go to support the students; we should all just be honest and skip that ceremony and go out for pizza.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Most Negative Title&lt;/strong&gt;&lt;/em&gt; : We all think of Gordon Ramsay as an extremely picky food critic/chef but if your life&amp;rsquo;s work was cooking and you saw a narcissistic restaurant manager breaking health code violations and making horrible food, you&amp;rsquo;d be pretty angry too.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusions--recommendations&#34;&gt;Conclusions &amp;amp; Recommendations
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Summarize Key Findings:
+The community&amp;rsquo;s sentiment is predominantly positive, with spikes in negativity tied to specific events.&lt;/li&gt;
+&lt;li&gt;Actionable Insights:
+None. the TOP of all time is based upon people voting one ↑ upvote ↓ downvote system. the posts here are entirely random by each user.&lt;/li&gt;
+&lt;li&gt;Future Considerations:
+For deeper insights, sentiment analysis could be extended to include user comments or posts score.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;process&#34;&gt;Process
+&lt;/h2&gt;&lt;p&gt;The Whole process is also seen on my Github Repo page link down below!&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/vlzjc/subreddit-sentiment-analysis/blob/main/extract.py&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Data Collection&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/vlzjc/subreddit-sentiment-analysis/blob/main/transform.py&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Transformation and Loading&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/vlzjc/subreddit-sentiment-analysis/blob/main/sentiment_score.py&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Sentiment Scoring&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/vlzjc/subreddit-sentiment-analysis/blob/main/analysis.ipynb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Sentiment Analysis Visualization&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
         <title>Gallery</title>
         <link>//localhost:1313/gallery/</link>
         <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
