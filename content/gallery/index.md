@@ -17,10 +17,10 @@ draft: false
 
 <div class="gallery">
   <a href="../p/churn-analysis/" class="gallery-item">
-  <img src="./churn.jpg" alt="Coffee Sales coffee-sales-dashboard">
+  <img src="./churn.jpg" alt="churn-analysis">
   </a>
   <a href="../p/coffee-sales" class="gallery-item">
-  <img src="../p/coffee-sales/v2.jpg" alt="Coffee Sales coffee-sales-dashboard">
+  <img src="../p/coffee-sales//v2.jpg" alt="Coffee Sales coffee-sales-dashboard">
   </a>
   <a href="../p/lotto-analysis" class="gallery-item">
   <img src="../p/lotto-analysis//22.jpg" alt="Coffee Sales coffee-sales-dashboard">
@@ -29,7 +29,7 @@ draft: false
   <img src="./engsrc.jpg" alt="Energy Sources">
   </a>
   <a href="../p/fin-report" class="gallery-item">
-  <img src="../p/fin-report/cover.jpg" alt="Photo 2">
+  <img src="../p/fin-report//cover.jpg" alt="Photo 2">
   </a>
   <a href="../p/fin-report" class="gallery-item">
   <img src="./1.jpg" alt="Financial Report v2">

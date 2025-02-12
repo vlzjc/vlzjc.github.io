@@ -94,10 +94,10 @@ For deeper insights, sentiment analysis could be extended to include user commen
         <guid>//localhost:1313/gallery/</guid>
         <description>&lt;div class=&#34;gallery&#34;&gt;
   &lt;a href=&#34;../p/churn-analysis/&#34; class=&#34;gallery-item&#34;&gt;
-  &lt;img src=&#34;./churn.jpg&#34; alt=&#34;Coffee Sales coffee-sales-dashboard&#34;&gt;
+  &lt;img src=&#34;./churn.jpg&#34; alt=&#34;churn-analysis&#34;&gt;
   &lt;/a&gt;
   &lt;a href=&#34;../p/coffee-sales&#34; class=&#34;gallery-item&#34;&gt;
-  &lt;img src=&#34;../p/coffee-sales/v2.jpg&#34; alt=&#34;Coffee Sales coffee-sales-dashboard&#34;&gt;
+  &lt;img src=&#34;../p/coffee-sales//v2.jpg&#34; alt=&#34;Coffee Sales coffee-sales-dashboard&#34;&gt;
   &lt;/a&gt;
   &lt;a href=&#34;../p/lotto-analysis&#34; class=&#34;gallery-item&#34;&gt;
   &lt;img src=&#34;../p/lotto-analysis//22.jpg&#34; alt=&#34;Coffee Sales coffee-sales-dashboard&#34;&gt;
@@ -106,7 +106,7 @@ For deeper insights, sentiment analysis could be extended to include user commen
   &lt;img src=&#34;./engsrc.jpg&#34; alt=&#34;Energy Sources&#34;&gt;
   &lt;/a&gt;
   &lt;a href=&#34;../p/fin-report&#34; class=&#34;gallery-item&#34;&gt;
-  &lt;img src=&#34;../p/fin-report/cover.jpg&#34; alt=&#34;Photo 2&#34;&gt;
+  &lt;img src=&#34;../p/fin-report//cover.jpg&#34; alt=&#34;Photo 2&#34;&gt;
   &lt;/a&gt;
   &lt;a href=&#34;../p/fin-report&#34; class=&#34;gallery-item&#34;&gt;
   &lt;img src=&#34;./1.jpg&#34; alt=&#34;Financial Report v2&#34;&gt;
@@ -2099,6 +2099,72 @@ Date
         
         <guid>//localhost:1313/p/wordle-with-python/</guid>
         <description>&lt;img src="//localhost:1313/p/wordle-with-python/cover.jpg" alt="Featured image of post Wordle with Python" /&gt;&lt;p&gt;Python Wordle is a fun word-guessing game you can play in the terminal. Guess the secret word in a few tries with hints after each guess. Simple, quick, and addictive!&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>resume</title>
+        <link>//localhost:1313/resume/resume/</link>
+        <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/resume/resume/</guid>
+        <description>&lt;h2 id=&#34;resumé&#34;&gt;Resumé
+&lt;/h2&gt;&lt;p&gt;JAIME CARLOS VELEZ &lt;/br&gt;
+✉︎ &lt;a class=&#34;link&#34; href=&#34;mailto:velezjaimecarlos@gmail.com&#34; &gt;velezjaimecarlos@gmail.com&lt;/a&gt; 🎞 &lt;a class=&#34;link&#34; href=&#34;mailto:vlzjc@github.io&#34; &gt;vlzjc@github.io&lt;/a&gt; ⟟ Caloocan, Ph&lt;/p&gt;
+&lt;h3 id=&#34;professional-summary&#34;&gt;PROFESSIONAL SUMMARY
+&lt;/h3&gt;&lt;p&gt;Data-savvy professional with a sharp ability to analyze data, identify trends, and implement data-driven solutions that optimize operations. Seeking a data focused role to further develop these analytical skills. Includes 2+ years of prior experience in data-focused roles.&lt;/p&gt;
+&lt;h3 id=&#34;technical-skills&#34;&gt;Technical Skills
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Python (Pandas, Numpy)&lt;/li&gt;
+&lt;li&gt;Excel&lt;/li&gt;
+&lt;li&gt;Power BI&lt;/li&gt;
+&lt;li&gt;SQL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;projects&#34;&gt;Projects
+&lt;/h3&gt;&lt;h4 id=&#34;telco-customer-churn-analysis&#34;&gt;Telco Customer Churn Analysis
+&lt;/h4&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://vlzjc.github.io/p/churn-analysis&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://vlzjc.github.io/p/churn-analysis&lt;/a&gt; | &lt;a class=&#34;link&#34; href=&#34;https://github.com/vlzjc/churn-analysis&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/vlzjc/churn-analysis&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Analyzed customer churn data for a telecommunications company, identifying key drivers and providing actionable recommendations to improve customer retention.&lt;/li&gt;
+&lt;li&gt;Utilized Python, Excel, and Power BI to clean, analyze, and visualize data, culminating in an interactive dashboard.&lt;/li&gt;
+&lt;li&gt;Leveraged data analysis and visualization skills to identify key drivers of customer churn for a telecommunications company.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;subreddit-top-of-all-time-posts-sentiment-analysis&#34;&gt;Subreddit Top of All Time Posts Sentiment Analysis
+&lt;/h4&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/vlzjc/subreddit-sentiment-analysis&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/vlzjc/subreddit-sentiment-analysis&lt;/a&gt; | &lt;a class=&#34;link&#34; href=&#34;https://vlzjc.github.io/p/showerthoughts-sentiment/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://vlzjc.github.io/p/showerthoughts-sentiment/&lt;/a&gt;
+•   Leveraged Python, VADER and the Reddit Scrapper API to conduct sentiment analysis of top posts of a subreddit.
+•   Identified sentiment trends, with findings showing predominantly positive sentiment on the data.
+•   Proposed future considerations for deeper insights extending to comments and posts score
+•   Something something&lt;/p&gt;
+&lt;h3 id=&#34;professional-experience&#34;&gt;PROFESSIONAL EXPERIENCE
+&lt;/h3&gt;&lt;h4 id=&#34;plant-manager&#34;&gt;Plant Manager
+&lt;/h4&gt;&lt;p&gt;OCT 2022-Present  |  New Mayon Adhesive MFG Corp, Parañaque, Metro Manila&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Led a cross-functional team to consistently achieve target production targets, reducing rejected products by 6% through the implementation of 5S methodology.&lt;/li&gt;
+&lt;li&gt;Developed key KPI reports for daily, weekly, and monthly that informed strategic decisions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;business-process-delivery-associate&#34;&gt;Business Process Delivery Associate
+&lt;/h4&gt;&lt;p&gt;JUL 2016- Nov 2018  |  ACCENTURE INC, Mandaluyong, Metro Manila&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Accurately processed financial transactions, membership data, and claims, ensuring compliance with industry standards.&lt;/li&gt;
+&lt;li&gt;Analyzed financial and operational data to identify opportunities for process improvement and efficiency gains.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;education&#34;&gt;EDUCATION
+&lt;/h3&gt;&lt;p&gt;Bachelors of Science in Computer Science, Centro Escolar University&lt;/p&gt;
+&lt;h3 id=&#34;certifications&#34;&gt;Certifications
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Applied Data Science with Python - Level 2 &lt;a class=&#34;link&#34; href=&#34;https://www.credly.com/badges/b8625c9e-d194-43de-a5c5-2fbe4d8cdd92/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;(IBM)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Google Data Analytics Professional Certificate &lt;a class=&#34;link&#34; href=&#34;https://www.credly.com/badges/fadb0054-37a4-4801-8ecf-bc1eecc2f885/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;(Coursera)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Google Business Intelligence &lt;a class=&#34;link&#34; href=&#34;https://www.credly.com/badges/44ad8cbb-6872-4f31-9778-5325a8667f3b/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;(Coursera)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Business Analytics Concepts and Frameworks &lt;a class=&#34;link&#34; href=&#34;https://model.upou.edu.ph/completers/bafbana_mar2024/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;(UpoU)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Six Sigma Yellow Belt &lt;a class=&#34;link&#34; href=&#34;https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/SixSigmaYellowBelt-JaimeCarlosVelez-887522.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;(6sigmastudy.com)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         <item>
