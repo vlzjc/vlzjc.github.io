@@ -12,12 +12,8 @@ menu:
 draft: false
 comment: false
 
-links:
-  - title: PDF
-    description: Printable Version
-    website: https://vlzjc.github.io/resume/resume/resumeVJC2025.pdf
 ---
-
+[Download My Resume](/file/resume.pdf)
 
 ## Resumé
 

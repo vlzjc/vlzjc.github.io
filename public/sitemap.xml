@@ -95,9 +95,6 @@
     <loc>//localhost:1313/p/wordle-with-python/</loc>
     <lastmod>2024-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/about-me/</loc>
-    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/resume/resume/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -111,6 +108,8 @@
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/analysis/</loc>
+  </url><url>
+    <loc>//localhost:1313/contact-me/</loc>
   </url><url>
     <loc>//localhost:1313/search/</loc>
   </url>

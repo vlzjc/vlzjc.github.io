@@ -2107,7 +2107,8 @@ Date
         <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
         
         <guid>//localhost:1313/resume/resume/</guid>
-        <description>&lt;h2 id=&#34;resumé&#34;&gt;Resumé
+        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;//localhost:1313/file/resume.pdf&#34; &gt;Download My Resume&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;resumé&#34;&gt;Resumé
 &lt;/h2&gt;&lt;p&gt;JAIME CARLOS VELEZ &lt;/br&gt;
 ✉︎ &lt;a class=&#34;link&#34; href=&#34;mailto:velezjaimecarlos@gmail.com&#34; &gt;velezjaimecarlos@gmail.com&lt;/a&gt; 🎞 &lt;a class=&#34;link&#34; href=&#34;mailto:vlzjc@github.io&#34; &gt;vlzjc@github.io&lt;/a&gt; ⟟ Caloocan, Ph&lt;/p&gt;
 &lt;h3 id=&#34;professional-summary&#34;&gt;PROFESSIONAL SUMMARY
@@ -2182,6 +2183,59 @@ Date
         
         <guid>//localhost:1313/categories/analysis/</guid>
         <description>&lt;img src="//localhost:1313/categories/analysis/analysis.JPG" alt="Featured image of post analysis" /&gt;</description>
+        </item>
+        <item>
+        <title>Contact Me</title>
+        <link>//localhost:1313/contact-me/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/contact-me/</guid>
+        <description>&lt;!--
+To use this feature, add `links` section to frontmatter.
+
+This page&#39;s frontmatter:
+
+```yaml
+links:
+  - title: GitHub
+    description: GitHub is the world&#39;s largest software development platform.
+    website: https://github.com
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: TypeScript
+    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+    website: https://www.typescriptlang.org
+    image: ts-logo-128.jpg
+```
+
+`image` field accepts both local and external images. more--&gt;
+&lt;h2&gt;Got a question or need a data savvy person for your next project? I’m just a message away! Feel free to reach out! All my links are listed down below! 🚀 &lt;/h2&gt;
+&lt;div style=&#34;display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start;&#34;&gt;
+&lt;form method=&#34;POST&#34; action=&#34;https://getform.io/f/byvkpdna&#34; class=&#34;contact-form&#34; &gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;_gotcha&#34; style=&#34;display:none !important&#34;&gt;
+  &lt;div class=&#34;form-row&#34;&gt;
+    &lt;div class=&#34;form-group&#34; required style=&#34;width: 60vh;&#34;&gt;
+      &lt;label for=&#34;name&#34;&gt;Name&lt;/label&gt;
+      &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; required&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;form-group&#34;&gt;
+      &lt;label for=&#34;email&#34;&gt;Email&lt;/label&gt;
+      &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; required&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;form-group&#34;&gt;
+    &lt;label for=&#34;message&#34;&gt;Message&lt;/label&gt;
+    &lt;textarea id=&#34;message&#34; name=&#34;message&#34; rows=&#34;5&#34; required&gt;&lt;/textarea&gt;
+  &lt;/div&gt;
+&lt;p&gt;&lt;button type=&#34;submit&#34; class=&#34;submit-btn&#34;&gt;Send Message&lt;/button&gt;&lt;/p&gt;
+&lt;/form&gt;
+&lt;div style=&#34;width:400px;display:block; margin: 0 auto;margin-top: 25px;&#34;&gt;
+    &lt;p style=&#34;font-size: 1.5em;&#34;&gt;Address&lt;/p&gt;
+    &lt;p&gt;Caloocan City, NCR,Philippines&lt;/p&gt;
+    &lt;p style=&#34;font-size: 1.5em;&#34;&gt;Email&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&#34;mailto:velezjaimecarlos@gmail.com&#34;&gt;velezjaimecarlos@gmail.com&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
         </item>
         <item>
         <title>Search</title>
