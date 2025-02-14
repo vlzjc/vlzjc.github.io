@@ -6,7 +6,104 @@
         <description>Recent content on Jaime Carlos Velez</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 11 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>OPM Database ETL</title>
+        <link>//localhost:1313/p/opm-database/</link>
+        <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/p/opm-database/</guid>
+        <description>&lt;img src="//localhost:1313/p/opm-database/cover.jpg" alt="Featured image of post OPM Database ETL" /&gt;&lt;p&gt;&lt;img src=&#34;//localhost:1313/p/opm-database/diagram.png&#34;
+	width=&#34;960&#34;
+	height=&#34;465&#34;
+	srcset=&#34;//localhost:1313/p/opm-database/diagram_hu5186500952926610838.png 480w, //localhost:1313/p/opm-database/diagram_hu15808025169433832065.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;206&#34;
+		data-flex-basis=&#34;495px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;opm-database-etl&#34;&gt;OPM Database ETL
+&lt;/h1&gt;&lt;h2 id=&#34;project-purpose&#34;&gt;Project Purpose
+&lt;/h2&gt;&lt;p&gt;The objective of this project is to utilize an API to collect song data from a music streaming service and efficiently load the retrieved information into a MySQL database. This system is designed to ensure effective storage and retrieval of song data, facilitating streamlined management and access.&lt;/p&gt;
+&lt;h2 id=&#34;process&#34;&gt;Process
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;API Integration:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Establish a connection one of Rapid API free API using &lt;a class=&#34;link&#34; href=&#34;https://github.com/vlzjc/OPM-dataset/blob/main/extract.py&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Retrieve comprehensive song-related data, including track title, artist, album, release date, and other relevant metadata.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Data Collection:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Utilize the API to fetch songs from a randomly selected playlist, ensuring the collection of all songs within that &lt;a class=&#34;link&#34; href=&#34;https://github.com/vlzjc/OPM-dataset/blob/main/playlists.txt&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;playlist&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Data Preprocessing:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Convert JSON-formatted files into a suitable CSV format for easier manipulation and storage using &lt;a class=&#34;link&#34; href=&#34;https://github.com/vlzjc/OPM-dataset/blob/main/transform.py&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Review the raw data retrieved from the API, addressing any missing values and ensuring consistency in formatting for efficient storage within MySQL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Future Plans:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Develop a subsequent project focused on cleaning and optimizing the data stored within the MySQL database to enhance accuracy and performance, while also adding more data to the database for expanded functionality and improved insights.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;my-role--contributions&#34;&gt;&lt;strong&gt;My Role &amp;amp; Contributions:&lt;/strong&gt;
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;API Integration:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Took responsibility for identifying and selecting a suitable free API from RapidAPI that aligns with the project requirements.&lt;/li&gt;
+&lt;li&gt;Established the connection between the application and the API, ensuring seamless data retrieval for all song-related information.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Data Collection:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Managed the process of fetching song data from a randomly selected playlist using the API.&lt;/li&gt;
+&lt;li&gt;Implemented logic to iterate through the playlist, collecting metadata for every song to ensure comprehensive coverage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tools-used&#34;&gt;&lt;strong&gt;Tools Used:&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;Python, Excel, MySQL&lt;/p&gt;
+&lt;h2 id=&#34;key-learnings&#34;&gt;&lt;strong&gt;Key Learnings:&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;This project allowed me to enhance both my technical skills and problem-solving abilities while giving me a deeper appreciation for the full cycle of data collection, storage, and management. I mean there was a lot of errors&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/p/opm-database/1.JPG&#34;
+	width=&#34;658&#34;
+	height=&#34;404&#34;
+	srcset=&#34;//localhost:1313/p/opm-database/1_hu3366452494462402010.JPG 480w, //localhost:1313/p/opm-database/1_hu14408967868720622422.JPG 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;162&#34;
+		data-flex-basis=&#34;390px&#34;
+	
+&gt;&lt;img src=&#34;//localhost:1313/p/opm-database/2.JPG&#34;
+	width=&#34;1111&#34;
+	height=&#34;130&#34;
+	srcset=&#34;//localhost:1313/p/opm-database/2_hu11071809006464157599.JPG 480w, //localhost:1313/p/opm-database/2_hu17525881899871936316.JPG 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;854&#34;
+		data-flex-basis=&#34;2051px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>r/Showerthoughts top sentiment analysis</title>
         <link>//localhost:1313/p/showerthoughts-sentiment/</link>
         <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
@@ -85,36 +182,6 @@ For deeper insights, sentiment analysis could be extended to include user commen
 &lt;/li&gt;
 &lt;/ol&gt;
 </description>
-        </item>
-        <item>
-        <title>Gallery</title>
-        <link>//localhost:1313/gallery/</link>
-        <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
-        
-        <guid>//localhost:1313/gallery/</guid>
-        <description>&lt;div class=&#34;gallery&#34;&gt;
-  &lt;a href=&#34;../p/churn-analysis/&#34; class=&#34;gallery-item&#34;&gt;
-  &lt;img src=&#34;./churn.jpg&#34; alt=&#34;churn-analysis&#34;&gt;
-  &lt;/a&gt;
-  &lt;a href=&#34;../p/coffee-sales&#34; class=&#34;gallery-item&#34;&gt;
-  &lt;img src=&#34;../p/coffee-sales//v2.jpg&#34; alt=&#34;Coffee Sales coffee-sales-dashboard&#34;&gt;
-  &lt;/a&gt;
-  &lt;a href=&#34;../p/lotto-analysis&#34; class=&#34;gallery-item&#34;&gt;
-  &lt;img src=&#34;../p/lotto-analysis//22.jpg&#34; alt=&#34;Coffee Sales coffee-sales-dashboard&#34;&gt;
-  &lt;/a&gt;
-  &lt;a href=&#34;../p/energy-sources&#34; class=&#34;gallery-item&#34;&gt;
-  &lt;img src=&#34;./engsrc.jpg&#34; alt=&#34;Energy Sources&#34;&gt;
-  &lt;/a&gt;
-  &lt;a href=&#34;../p/fin-report&#34; class=&#34;gallery-item&#34;&gt;
-  &lt;img src=&#34;../p/fin-report//cover.jpg&#34; alt=&#34;Photo 2&#34;&gt;
-  &lt;/a&gt;
-  &lt;a href=&#34;../p/fin-report&#34; class=&#34;gallery-item&#34;&gt;
-  &lt;img src=&#34;./1.jpg&#34; alt=&#34;Financial Report v2&#34;&gt;
-  &lt;/a&gt;
-  &lt;a href=&#34;../p/from-scratch-1&#34; class=&#34;gallery-item&#34;&gt;
-  &lt;img src=&#34;./covid19.jpg&#34; alt=&#34;Energy Sources&#34;&gt;
-  &lt;/a&gt;
-&lt;/div&gt;</description>
         </item>
         <item>
         <title>Customer Churn Analysis</title>

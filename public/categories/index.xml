@@ -15,20 +15,20 @@
         <description>&lt;img src="//localhost:1313/categories/visualization/visualize.jpg" alt="Featured image of post visualization" /&gt;</description>
         </item>
         <item>
+        <title>ETL</title>
+        <link>//localhost:1313/categories/etl/</link>
+        <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/categories/etl/</guid>
+        <description>&lt;img src="//localhost:1313/categories/etl/ETL.jpg" alt="Featured image of post ETL" /&gt;</description>
+        </item>
+        <item>
         <title>programming</title>
         <link>//localhost:1313/categories/programming/</link>
         <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
         
         <guid>//localhost:1313/categories/programming/</guid>
         <description>&lt;img src="//localhost:1313/categories/programming/programming.jpg" alt="Featured image of post programming" /&gt;</description>
-        </item>
-        <item>
-        <title>ETL</title>
-        <link>//localhost:1313/categories/etl/</link>
-        <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-        
-        <guid>//localhost:1313/categories/etl/</guid>
-        <description>&lt;img src="//localhost:1313/categories/etl/ETL.jpg" alt="Featured image of post ETL" /&gt;</description>
         </item>
         <item>
         <title>data manipulation</title>

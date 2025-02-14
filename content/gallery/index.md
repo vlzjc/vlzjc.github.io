@@ -11,7 +11,7 @@ menu:
         params: 
             icon: infinity
 comments: false
-draft: false
+draft: true
 ---
 
 

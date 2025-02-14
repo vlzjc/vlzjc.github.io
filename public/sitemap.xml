@@ -38,7 +38,13 @@
     <loc>//localhost:1313/p/from-scratch-1/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/categories/etl/</loc>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/tags/mysql/</loc>
+    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/p/opm-database/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/programming/</loc>
@@ -81,9 +87,6 @@
     <lastmod>2025-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/p/coffee-sales/</loc>
-    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/etl/</loc>
     <lastmod>2025-01-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/p/food-stocks/</loc>
