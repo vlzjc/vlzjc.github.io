@@ -23,7 +23,8 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: "latest"
-      
+      - name: Disable Jekyll
+        run: touch docs/.nojekyll
 
       - name: Build
         run: hugo --minify
@@ -35,5 +36,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./docs
-      - name: Disable Jekyll
-        run: touch docs/.nojekyll
+      
