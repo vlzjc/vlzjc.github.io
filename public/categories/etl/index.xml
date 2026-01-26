@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ETL on vlz</title>
-    <link>//localhost:1313/categories/etl/</link>
+    <link>http://localhost:1313/categories/etl/</link>
     <description>Recent content in ETL on vlz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>velezjaimecarlos@gmail,com.com (Jaime Carlos Velez)</managingEditor>
     <webMaster>velezjaimecarlos@gmail,com.com (Jaime Carlos Velez)</webMaster>
     <copyright>© 2026 Jaime Carlos Velez</copyright>
-    <lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/etl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/etl/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>OPM Database ETL</title>
-      <link>//localhost:1313/posts/opm-database/</link>
+      <link>http://localhost:1313/posts/opm-database/</link>
       <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
       <author>velezjaimecarlos@gmail,com.com (Jaime Carlos Velez)</author>
-      <guid>//localhost:1313/posts/opm-database/</guid>
+      <guid>http://localhost:1313/posts/opm-database/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/opm-database/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/opm-database/cover.jpg" />
     </item>
     
     <item>
       <title>food stocks comparisons</title>
-      <link>//localhost:1313/posts/food-stocks/</link>
+      <link>http://localhost:1313/posts/food-stocks/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
       <author>velezjaimecarlos@gmail,com.com (Jaime Carlos Velez)</author>
-      <guid>//localhost:1313/posts/food-stocks/</guid>
+      <guid>http://localhost:1313/posts/food-stocks/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/food-stocks/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/food-stocks/cover.jpg" />
     </item>
     
   </channel>
