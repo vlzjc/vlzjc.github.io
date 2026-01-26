@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on vlz</title>
+    <link>//localhost:1313/tags/python/</link>
+    <description>Recent content in Python on vlz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>velezjaimecarlos@gmail,com.com (Jaime Carlos Velez)</managingEditor>
+    <webMaster>velezjaimecarlos@gmail,com.com (Jaime Carlos Velez)</webMaster>
+    <copyright>© 2026 Jaime Carlos Velez</copyright>
+    <lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OPM Database ETL</title>
+      <link>//localhost:1313/posts/opm-database/</link>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+      <author>velezjaimecarlos@gmail,com.com (Jaime Carlos Velez)</author>
+      <guid>//localhost:1313/posts/opm-database/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/opm-database/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>r/Showerthoughts top sentiment analysis</title>
+      <link>//localhost:1313/posts/showerthoughts-sentiment/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      <author>velezjaimecarlos@gmail,com.com (Jaime Carlos Velez)</author>
+      <guid>//localhost:1313/posts/showerthoughts-sentiment/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/showerthoughts-sentiment/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Customer Churn Analysis</title>
+      <link>//localhost:1313/posts/churn-analysis/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <author>velezjaimecarlos@gmail,com.com (Jaime Carlos Velez)</author>
+      <guid>//localhost:1313/posts/churn-analysis/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/churn-analysis/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>COVID-19: A Retrospective</title>
+      <link>//localhost:1313/posts/from-scratch-1/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <author>velezjaimecarlos@gmail,com.com (Jaime Carlos Velez)</author>
+      <guid>//localhost:1313/posts/from-scratch-1/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/from-scratch-1/cover.JPG" />
+    </item>
+    
+    <item>
+      <title>Stock Market Analysis</title>
+      <link>//localhost:1313/posts/stock-market-analysis/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <author>velezjaimecarlos@gmail,com.com (Jaime Carlos Velez)</author>
+      <guid>//localhost:1313/posts/stock-market-analysis/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/stock-market-analysis/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>lotto analysis</title>
+      <link>//localhost:1313/posts/lotto-analysis/</link>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+      <author>velezjaimecarlos@gmail,com.com (Jaime Carlos Velez)</author>
+      <guid>//localhost:1313/posts/lotto-analysis/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/lotto-analysis/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Wordle with Python</title>
+      <link>//localhost:1313/posts/wordle-with-python/</link>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      <author>velezjaimecarlos@gmail,com.com (Jaime Carlos Velez)</author>
+      <guid>//localhost:1313/posts/wordle-with-python/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/wordle-with-python/cover.jpg" />
+    </item>
+    
+  </channel>
+</rss>
