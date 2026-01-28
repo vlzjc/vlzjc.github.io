@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example Category on vlz</title>
+    <link>https://vlzjc.github.io/categories/example-category/</link>
+    <description>Recent content in Example Category on vlz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>velezjaimecarlos@gmail,com.com (Jaime Carlos Velez)</managingEditor>
+    <webMaster>velezjaimecarlos@gmail,com.com (Jaime Carlos Velez)</webMaster>
+    <copyright>© 2026 Jaime Carlos Velez</copyright>
+    <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://vlzjc.github.io/categories/example-category/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://vlzjc.github.io/posts/hello-world/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      <author>velezjaimecarlos@gmail,com.com (Jaime Carlos Velez)</author>
+      <guid>https://vlzjc.github.io/posts/hello-world/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vlzjc.github.io/posts/hello-world/cover.jpg" />
+    </item>
+    
+  </channel>
+</rss>
