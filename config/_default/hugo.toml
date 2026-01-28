@@ -96,3 +96,6 @@ enableEmoji = true
   [module.hugoVersion]
     extended = true
     min = "0.87.0"
+[build]
+  [[build.fingerprint]]
+  disable = true
