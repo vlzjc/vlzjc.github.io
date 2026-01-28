@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish" 
-baseURL = "https://vlzjc.github.io/vlzjc.github.io/"
+baseURL = "https://vlzjc.github.io/"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
@@ -68,34 +68,6 @@ enableEmoji = true
       type = 'fragments'
       weight = 10
 
-[build]
-  [build.buildStats]
-    disableClasses = false
-    disableIDs = false
-    disableTags = false
-    enable = true
-  [build.cachebusters]
-    disableCSS = false
-    disableJS = false
-    disableJSON = false
-    disableSVG = false
-    disableXML = false
-    
-[security]
-  enableInlineShortcodes = false
-  [security.exec]
-    allow = ['^(dart-)?sass(-embedded)?$', '^go$', '^npx$', '^postcss$']
-    osEnv = ['(?i)^((HTTPS?|NO)_PROXY|PATH(EXT)?|APPDATA|TE?MP|TERM|GO\w+|(XDG_CONFIG_)?HOME|USERPROFILE|SSH_AUTH_SOCK|DISPLAY|LANG|SYSTEMDRIVE)$']
-  [security.funcs]
-    getenv = ['^HUGO_', '^CI$']
-  [security.http]
-    methods = ['(?i)GET|POST']
-    urls = ['.*']
-
-[module]
-  [module.hugoVersion]
-    extended = true
-    min = "0.87.0"
-[build]
-  [[build.fingerprint]]
-  disable = true
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
