@@ -91,3 +91,8 @@ enableEmoji = true
   [security.http]
     methods = ['(?i)GET|POST']
     urls = ['.*']
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.87.0"

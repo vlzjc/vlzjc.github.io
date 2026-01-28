@@ -15,10 +15,6 @@
 	pageRef = "posts"
 	weight = 20
 [[main]]
-	name = "About"
-	pageRef = "About"
-  	weight = 21
-[[main]]
 	name = "Work"
   	weight = 30
 [[main]]
