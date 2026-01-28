@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
 baseURL = 'https://vlzjc.github.io/'
+=======
+baseURL = 'https://vjaime.github.com/'
+>>>>>>> Stashed changes
 languageCode = 'en-us'
 title = 'VLZ'

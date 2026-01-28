@@ -3,7 +3,11 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish" 
+<<<<<<< Updated upstream
 baseURL = "https://vlzjc.github.io/"
+=======
+baseURL = "https://vjaime.github.com/"
+>>>>>>> Stashed changes
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
