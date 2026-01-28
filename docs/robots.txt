@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://vjaime.netlify.app/sitemap.xml
+Sitemap: https://vlzjc.github.io/sitemap.xml

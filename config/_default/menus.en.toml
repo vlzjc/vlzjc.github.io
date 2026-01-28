@@ -24,7 +24,7 @@
 [[main]]
 	name = "Virtual Assistant"
 	parent = "Work"
-	url = "/vaportfolio.html"
+	url = "vaportfolio/vaportfolio.html"
 	weight = 30
 
 
