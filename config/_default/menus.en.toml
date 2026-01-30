@@ -11,18 +11,30 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 1
+[[main]]
 	name = "Blog"
 	pageRef = "posts"
-	weight = 20
+	weight = 20  
 [[main]]
-	name = "Work"
+	name = "Portfolio"
   	weight = 30
 [[main]]
 	name = "Virtual Assistant"
-	parent = "Work"
+	parent = "Portfolio"
 	url = "/vaportfolio.html"
 	weight = 30
-
+[[main]]
+	name = "Resume"
+	parent = "Portfolio"
+	url = "/resume.pdf"
+	weight = 30
+[[main]]
+	name = "About"
+	pageRef = "about"
+  	weight = 40
 
 
 #[[main]]
